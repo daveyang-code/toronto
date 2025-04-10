@@ -10,6 +10,9 @@ from plotly.subplots import make_subplots
 
 # Initialize the Dash app with a modern Bootstrap theme
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
+server = app.server
+
 app.title = "Toronto Neighbourhood Explorer"
 app.config.suppress_callback_exceptions = True
 
