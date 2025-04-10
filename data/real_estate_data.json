@@ -1,0 +1,7882 @@
+[
+  {
+    "community": "Agincourt North",
+    "href": "/agincourt-north/real-estate-price-history.htm",
+    "average_property_price": 1061124,
+    "sub_property_prices": {
+      "Condominiums": 838676,
+      "Condo Townhomes": 963282,
+      "Freehold Townhomes": 1046572,
+      "Detached Homes": 1156590
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 444,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 576,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1396,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -3958,
+        "percent_change": -0.372
+      },
+      "6 Months": {
+        "change": 13500,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -55100,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 154000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 266000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 557000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["129"]
+  },
+  {
+    "community": "Agincourt South-Malvern West",
+    "href": "/agincourt-south-malvern-west/real-estate-price-history.htm",
+    "average_property_price": 1068582,
+    "sub_property_prices": {
+      "Condominiums": 843504,
+      "Condo Townhomes": 973494,
+      "Freehold Townhomes": 1005874,
+      "Detached Homes": 1202725
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 447,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 587,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1370,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -3870,
+        "percent_change": -0.361
+      },
+      "6 Months": {
+        "change": 13800,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -55000,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 157000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 271000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 565000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["128"]
+  },
+  {
+    "community": "Alderwood",
+    "href": "/alderwood/real-estate-price-history.htm",
+    "average_property_price": 1118436,
+    "sub_property_prices": {
+      "Condominiums": 804014,
+      "Condo Townhomes": 932047,
+      "Freehold Townhomes": 1206367,
+      "Detached Homes": 1268753
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 468,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 643,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1297,
+        "percent_change": -0.116
+      },
+      "3 Months": {
+        "change": -3616,
+        "percent_change": -0.322
+      },
+      "6 Months": {
+        "change": 15300,
+        "percent_change": 1.39
+      },
+      "1 Year": {
+        "change": -55600,
+        "percent_change": -4.73
+      },
+      "3 Years": {
+        "change": 170000,
+        "percent_change": 17.9
+      },
+      "5 Years": {
+        "change": 292000,
+        "percent_change": 35.4
+      },
+      "10 Years": {
+        "change": 606000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["020"]
+  },
+  {
+    "community": "Annex",
+    "href": "/annex/real-estate-price-history.htm",
+    "average_property_price": 1646701,
+    "sub_property_prices": {
+      "Condominiums": 1253942,
+      "Condo Townhomes": 1564029,
+      "Freehold Townhomes": 1486973,
+      "Detached Homes": 1774443
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 689,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 915,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -2062,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -5807,
+        "percent_change": -0.351
+      },
+      "6 Months": {
+        "change": 21600,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -84000,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 244000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 420000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 875000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["095"]
+  },
+  {
+    "community": "Banbury-Don Mills",
+    "href": "/banbury-don-mills/real-estate-price-history.htm",
+    "average_property_price": 1375440,
+    "sub_property_prices": {
+      "Condominiums": 924646,
+      "Condo Townhomes": 1064867,
+      "Freehold Townhomes": 1332584,
+      "Detached Homes": 1809883
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 575,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 769,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1700,
+        "percent_change": -0.123
+      },
+      "3 Months": {
+        "change": -4780,
+        "percent_change": -0.346
+      },
+      "6 Months": {
+        "change": 18200,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -69800,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 205000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 353000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 734000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["042"]
+  },
+  {
+    "community": "Bathurst Manor",
+    "href": "/bathurst-manor/real-estate-price-history.htm",
+    "average_property_price": 1103801,
+    "sub_property_prices": {
+      "Condominiums": 860556,
+      "Condo Townhomes": 843883,
+      "Freehold Townhomes": 1094543,
+      "Detached Homes": 1327688
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 462,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 604,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1427,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -4036,
+        "percent_change": -0.364
+      },
+      "6 Months": {
+        "change": 14200,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -56900,
+        "percent_change": -4.91
+      },
+      "3 Years": {
+        "change": 162000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 279000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 582000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["034"]
+  },
+  {
+    "community": "Bay Street Corridor",
+    "href": "/bay-street-corridor/real-estate-price-history.htm",
+    "average_property_price": 1867952,
+    "sub_property_prices": {
+      "Condominiums": 1027325,
+      "Condo Townhomes": 1644259,
+      "Freehold Townhomes": 2516966
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 781,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 1154,
+        "percent_change": 0.062
+      },
+      "30 Days": {
+        "change": -1777,
+        "percent_change": -0.095
+      },
+      "3 Months": {
+        "change": -4797,
+        "percent_change": -0.256
+      },
+      "6 Months": {
+        "change": 28100,
+        "percent_change": 1.53
+      },
+      "1 Year": {
+        "change": -87300,
+        "percent_change": -4.47
+      },
+      "3 Years": {
+        "change": 299000,
+        "percent_change": 19.1
+      },
+      "5 Years": {
+        "change": 515000,
+        "percent_change": 38.0
+      },
+      "10 Years": {
+        "change": 1050000,
+        "percent_change": 130.0
+      }
+    },
+    "area_code": ["170"]
+  },
+  {
+    "community": "Bayview Village",
+    "href": "/bayview-village/real-estate-price-history.htm",
+    "average_property_price": 1378234,
+    "sub_property_prices": {
+      "Condominiums": 968548,
+      "Condo Townhomes": 1033572,
+      "Freehold Townhomes": 1283213,
+      "Detached Homes": 1888332
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 576,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 762,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1746,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -4927,
+        "percent_change": -0.356
+      },
+      "6 Months": {
+        "change": 17900,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -70600,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 203000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 350000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 730000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["052"]
+  },
+  {
+    "community": "Bayview Woods-Steeles",
+    "href": "/bayview-woods-steeles/real-estate-price-history.htm",
+    "average_property_price": 1297091,
+    "sub_property_prices": {
+      "Condominiums": 977643,
+      "Condo Townhomes": 991697,
+      "Freehold Townhomes": 1125847,
+      "Detached Homes": 1784493
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 542,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 643,
+        "percent_change": 0.05
+      },
+      "30 Days": {
+        "change": -2006,
+        "percent_change": -0.154
+      },
+      "3 Months": {
+        "change": -5794,
+        "percent_change": -0.445
+      },
+      "6 Months": {
+        "change": 14500,
+        "percent_change": 1.13
+      },
+      "1 Year": {
+        "change": -71600,
+        "percent_change": -5.23
+      },
+      "3 Years": {
+        "change": 177000,
+        "percent_change": 15.8
+      },
+      "5 Years": {
+        "change": 305000,
+        "percent_change": 30.8
+      },
+      "10 Years": {
+        "change": 647000,
+        "percent_change": 99.7
+      }
+    },
+    "area_code": ["049"]
+  },
+  {
+    "community": "Bedford Park-Nortown",
+    "href": "/bedford-park-nortown/real-estate-price-history.htm",
+    "average_property_price": 1669186,
+    "sub_property_prices": {
+      "Condominiums": 1101065,
+      "Condo Townhomes": 1502889,
+      "Freehold Townhomes": 1917666,
+      "Detached Homes": 1776050
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 698,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 902,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -2218,
+        "percent_change": -0.133
+      },
+      "3 Months": {
+        "change": -6295,
+        "percent_change": -0.376
+      },
+      "6 Months": {
+        "change": 21100,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -87000,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 242000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 417000,
+        "percent_change": 33.3
+      },
+      "10 Years": {
+        "change": 873000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["039"]
+  },
+  {
+    "community": "Beechborough-Greenbrook",
+    "href": "/beechborough-greenbrook/real-estate-price-history.htm",
+    "average_property_price": 1110585,
+    "sub_property_prices": {
+      "Condominiums": 811387,
+      "Condo Townhomes": 1243435,
+      "Freehold Townhomes": 974736,
+      "Detached Homes": 1151504
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 464,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 639,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1283,
+        "percent_change": -0.115
+      },
+      "3 Months": {
+        "change": -3575,
+        "percent_change": -0.321
+      },
+      "6 Months": {
+        "change": 15300,
+        "percent_change": 1.39
+      },
+      "1 Year": {
+        "change": -55100,
+        "percent_change": -4.73
+      },
+      "3 Years": {
+        "change": 169000,
+        "percent_change": 17.9
+      },
+      "5 Years": {
+        "change": 291000,
+        "percent_change": 35.5
+      },
+      "10 Years": {
+        "change": 602000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["112"]
+  },
+  {
+    "community": "Bendale",
+    "href": "/bendale/real-estate-price-history.htm",
+    "average_property_price": 975884,
+    "sub_property_prices": {
+      "Condominiums": 869530,
+      "Condo Townhomes": 695410,
+      "Freehold Townhomes": 1007345,
+      "Detached Homes": 1098953
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 408,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 528,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1295,
+        "percent_change": -0.132
+      },
+      "3 Months": {
+        "change": -3674,
+        "percent_change": -0.375
+      },
+      "6 Months": {
+        "change": 12300,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -50800,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 142000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 244000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 511000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["156"]
+  },
+  {
+    "community": "Bendale",
+    "href": "/bendale/real-estate-price-history.htm",
+    "average_property_price": 975884,
+    "sub_property_prices": {
+      "Condominiums": 869530,
+      "Condo Townhomes": 695410,
+      "Freehold Townhomes": 1007345,
+      "Detached Homes": 1098953
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 408,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 528,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1295,
+        "percent_change": -0.132
+      },
+      "3 Months": {
+        "change": -3674,
+        "percent_change": -0.375
+      },
+      "6 Months": {
+        "change": 12300,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -50800,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 142000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 244000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 511000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["157"]
+  },
+  {
+    "community": "Birchcliffe-Cliffside",
+    "href": "/birchcliffe-cliffside/real-estate-price-history.htm",
+    "average_property_price": 1119130,
+    "sub_property_prices": {
+      "Condominiums": 904032,
+      "Condo Townhomes": 993047,
+      "Freehold Townhomes": 1081517,
+      "Detached Homes": 1221062
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 468,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 608,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1471,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -4169,
+        "percent_change": -0.371
+      },
+      "6 Months": {
+        "change": 14200,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -58100,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 163000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 281000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 587000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["122"]
+  },
+  {
+    "community": "Black Creek",
+    "href": "/black-creek/real-estate-price-history.htm",
+    "average_property_price": 904192,
+    "sub_property_prices": {
+      "Condominiums": 734390,
+      "Condo Townhomes": 625742,
+      "Freehold Townhomes": 1009778,
+      "Detached Homes": 1035349
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 378,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 496,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1164,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3289,
+        "percent_change": -0.362
+      },
+      "6 Months": {
+        "change": 11700,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -46600,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 133000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 229000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 477000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["024"]
+  },
+  {
+    "community": "Blake-Jones",
+    "href": "/blake-jones/real-estate-price-history.htm",
+    "average_property_price": 1193218,
+    "sub_property_prices": {
+      "Condominiums": 851543,
+      "Condo Townhomes": 791011,
+      "Freehold Townhomes": 1186119,
+      "Detached Homes": 1641165
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 499,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 677,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1428,
+        "percent_change": -0.119
+      },
+      "3 Months": {
+        "change": -3996,
+        "percent_change": -0.334
+      },
+      "6 Months": {
+        "change": 16100,
+        "percent_change": 1.37
+      },
+      "1 Year": {
+        "change": -59900,
+        "percent_change": -4.78
+      },
+      "3 Years": {
+        "change": 179000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 309000,
+        "percent_change": 35.0
+      },
+      "10 Years": {
+        "change": 642000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["069"]
+  },
+  {
+    "community": "Briar Hill-Belgravia",
+    "href": "/briar-hill-belgravia/real-estate-price-history.htm",
+    "average_property_price": 1068283,
+    "sub_property_prices": {
+      "Condominiums": 866768,
+      "Condo Townhomes": 958188,
+      "Freehold Townhomes": 1031279,
+      "Detached Homes": 1149565
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 447,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 595,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1331,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3747,
+        "percent_change": -0.35
+      },
+      "6 Months": {
+        "change": 14100,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -54400,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 159000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 273000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 569000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["108"]
+  },
+  {
+    "community": "Bridle Path-Sunnybrook-York Mills",
+    "href": "/bridle-path-sunnybrook-york-mills/real-estate-price-history.htm",
+    "average_property_price": 1957469,
+    "sub_property_prices": {
+      "Condominiums": 1615340,
+      "Condo Townhomes": 1281896,
+      "Freehold Townhomes": 1869813,
+      "Detached Homes": 2486844
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 819,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 1070,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -2537,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -7179,
+        "percent_change": -0.365
+      },
+      "6 Months": {
+        "change": 25100,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -101000,
+        "percent_change": -4.91
+      },
+      "3 Years": {
+        "change": 286000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 494000,
+        "percent_change": 33.7
+      },
+      "10 Years": {
+        "change": 1030000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["041"]
+  },
+  {
+    "community": "Broadview North",
+    "href": "/broadview-north/real-estate-price-history.htm",
+    "average_property_price": 1214807,
+    "sub_property_prices": {
+      "Condominiums": 910959,
+      "Condo Townhomes": 1234206,
+      "Freehold Townhomes": 1134224,
+      "Detached Homes": 1287608
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 508,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 696,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1420,
+        "percent_change": -0.117
+      },
+      "3 Months": {
+        "change": -3961,
+        "percent_change": -0.325
+      },
+      "6 Months": {
+        "change": 16600,
+        "percent_change": 1.38
+      },
+      "1 Year": {
+        "change": -60500,
+        "percent_change": -4.75
+      },
+      "3 Years": {
+        "change": 184000,
+        "percent_change": 17.9
+      },
+      "5 Years": {
+        "change": 317000,
+        "percent_change": 35.3
+      },
+      "10 Years": {
+        "change": 657000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["057"]
+  },
+  {
+    "community": "Brookhaven-Amesbury",
+    "href": "/brookhaven-amesbury/real-estate-price-history.htm",
+    "average_property_price": 959133,
+    "sub_property_prices": {
+      "Condominiums": 823072,
+      "Condo Townhomes": 653670,
+      "Freehold Townhomes": 967215,
+      "Detached Homes": 1163796
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 401,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 534,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1197,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -3371,
+        "percent_change": -0.35
+      },
+      "6 Months": {
+        "change": 12600,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -48900,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 142000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 245000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 510000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["030"]
+  },
+  {
+    "community": "Cabbagetown-South St. James Town",
+    "href": "/cabbagetown-south-st-james-town/real-estate-price-history.htm",
+    "average_property_price": 1396704,
+    "sub_property_prices": {
+      "Condominiums": 965875,
+      "Condo Townhomes": 993039,
+      "Freehold Townhomes": 1416861,
+      "Detached Homes": 1898437
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 584,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 767,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1792,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -5065,
+        "percent_change": -0.361
+      },
+      "6 Months": {
+        "change": 18000,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -71900,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 205000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 354000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 738000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["071"]
+  },
+  {
+    "community": "Caledonia-Fairbank",
+    "href": "/caledonia-fairbank/real-estate-price-history.htm",
+    "average_property_price": 1076724,
+    "sub_property_prices": {
+      "Condo Townhomes": 812926,
+      "Freehold Townhomes": 1105670,
+      "Detached Homes": 1122163
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 450,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 628,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1206,
+        "percent_change": -0.112
+      },
+      "3 Months": {
+        "change": -3345,
+        "percent_change": -0.31
+      },
+      "6 Months": {
+        "change": 15000,
+        "percent_change": 1.42
+      },
+      "1 Year": {
+        "change": -52900,
+        "percent_change": -4.68
+      },
+      "3 Years": {
+        "change": 165000,
+        "percent_change": 18.1
+      },
+      "5 Years": {
+        "change": 284000,
+        "percent_change": 35.9
+      },
+      "10 Years": {
+        "change": 588000,
+        "percent_change": 120.0
+      }
+    },
+    "area_code": ["109"]
+  },
+  {
+    "community": "Casa Loma",
+    "href": "/casa-loma/real-estate-price-history.htm",
+    "average_property_price": 1741368,
+    "sub_property_prices": {
+      "Condominiums": 1099203,
+      "Condo Townhomes": 1454640,
+      "Freehold Townhomes": 1581083,
+      "Detached Homes": 2365133
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 728,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 978,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -2130,
+        "percent_change": -0.122
+      },
+      "3 Months": {
+        "change": -5979,
+        "percent_change": -0.342
+      },
+      "6 Months": {
+        "change": 23200,
+        "percent_change": 1.35
+      },
+      "1 Year": {
+        "change": -88100,
+        "percent_change": -4.82
+      },
+      "3 Years": {
+        "change": 260000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 448000,
+        "percent_change": 34.6
+      },
+      "10 Years": {
+        "change": 931000,
+        "percent_change": 115.0
+      }
+    },
+    "area_code": ["096"]
+  },
+  {
+    "community": "Centennial Scarborough",
+    "href": "/centennial-scarborough/real-estate-price-history.htm",
+    "average_property_price": 963466,
+    "sub_property_prices": {
+      "Condominiums": 510747,
+      "Condo Townhomes": 914211,
+      "Freehold Townhomes": 975926,
+      "Detached Homes": 1235378
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 403,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 543,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1172,
+        "percent_change": -0.122
+      },
+      "3 Months": {
+        "change": -3290,
+        "percent_change": -0.34
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.35
+      },
+      "1 Year": {
+        "change": -48700,
+        "percent_change": -4.81
+      },
+      "3 Years": {
+        "change": 144000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 248000,
+        "percent_change": 34.7
+      },
+      "10 Years": {
+        "change": 516000,
+        "percent_change": 115.0
+      }
+    },
+    "area_code": ["133"]
+  },
+  {
+    "community": "Church-Yonge Corridor",
+    "href": "/church-yonge-corridor/real-estate-price-history.htm",
+    "average_property_price": 1495837,
+    "sub_property_prices": {
+      "Condominiums": 984345,
+      "Condo Townhomes": 1148090,
+      "Freehold Townhomes": 1658566,
+      "Detached Homes": 1799857
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 626,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 797,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -2039,
+        "percent_change": -0.136
+      },
+      "3 Months": {
+        "change": -5806,
+        "percent_change": -0.387
+      },
+      "6 Months": {
+        "change": 18500,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -78700,
+        "percent_change": -5.0
+      },
+      "3 Years": {
+        "change": 215000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 371000,
+        "percent_change": 32.9
+      },
+      "10 Years": {
+        "change": 777000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["167"]
+  },
+  {
+    "community": "Church-Yonge Corridor",
+    "href": "/church-yonge-corridor/real-estate-price-history.htm",
+    "average_property_price": 1495837,
+    "sub_property_prices": {
+      "Condominiums": 984345,
+      "Condo Townhomes": 1148090,
+      "Freehold Townhomes": 1658566,
+      "Detached Homes": 1799857
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 626,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 797,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -2039,
+        "percent_change": -0.136
+      },
+      "3 Months": {
+        "change": -5806,
+        "percent_change": -0.387
+      },
+      "6 Months": {
+        "change": 18500,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -78700,
+        "percent_change": -5.0
+      },
+      "3 Years": {
+        "change": 215000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 371000,
+        "percent_change": 32.9
+      },
+      "10 Years": {
+        "change": 777000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["168"]
+  },
+  {
+    "community": "Clairlea-Birchmount",
+    "href": "/clairlea-birchmount/real-estate-price-history.htm",
+    "average_property_price": 1043602,
+    "sub_property_prices": {
+      "Condominiums": 854276,
+      "Condo Townhomes": 920433,
+      "Freehold Townhomes": 1040608,
+      "Detached Homes": 1111250
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 436,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 576,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1325,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -3739,
+        "percent_change": -0.357
+      },
+      "6 Months": {
+        "change": 13600,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -53500,
+        "percent_change": -4.88
+      },
+      "3 Years": {
+        "change": 154000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 265000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 553000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["120"]
+  },
+  {
+    "community": "Clanton Park",
+    "href": "/clanton-park/real-estate-price-history.htm",
+    "average_property_price": 1223390,
+    "sub_property_prices": {
+      "Condominiums": 917863,
+      "Condo Townhomes": 982125,
+      "Freehold Townhomes": 1248469,
+      "Detached Homes": 1447317
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 512,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 672,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1569,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -4435,
+        "percent_change": -0.361
+      },
+      "6 Months": {
+        "change": 15800,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -62900,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 180000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 310000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 646000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["033"]
+  },
+  {
+    "community": "Cliffcrest",
+    "href": "/cliffcrest/real-estate-price-history.htm",
+    "average_property_price": 975314,
+    "sub_property_prices": {
+      "Condominiums": 835374,
+      "Condo Townhomes": 608998,
+      "Freehold Townhomes": 867390,
+      "Detached Homes": 1321097
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 408,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 546,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1203,
+        "percent_change": -0.123
+      },
+      "3 Months": {
+        "change": -3381,
+        "percent_change": -0.345
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -49500,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 145000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 250000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 521000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["123"]
+  },
+  {
+    "community": "Corso Italia-Davenport",
+    "href": "/corso-italia-davenport/real-estate-price-history.htm",
+    "average_property_price": 990052,
+    "sub_property_prices": {
+      "Condominiums": 686163,
+      "Condo Townhomes": 783689,
+      "Freehold Townhomes": 1107373,
+      "Detached Homes": 1137320
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 414,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 562,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1185,
+        "percent_change": -0.12
+      },
+      "3 Months": {
+        "change": -3318,
+        "percent_change": -0.334
+      },
+      "6 Months": {
+        "change": 13300,
+        "percent_change": 1.37
+      },
+      "1 Year": {
+        "change": -49700,
+        "percent_change": -4.78
+      },
+      "3 Years": {
+        "change": 149000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 256000,
+        "percent_change": 34.9
+      },
+      "10 Years": {
+        "change": 532000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["092"]
+  },
+  {
+    "community": "Crescent Town",
+    "href": "/crescent-town/real-estate-price-history.htm",
+    "average_property_price": 946710,
+    "sub_property_prices": {
+      "Condominiums": 802516,
+      "Condo Townhomes": 572485,
+      "Freehold Townhomes": 1063192,
+      "Detached Homes": 1116178
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 396,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 546,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1090,
+        "percent_change": -0.115
+      },
+      "3 Months": {
+        "change": -3034,
+        "percent_change": -0.319
+      },
+      "6 Months": {
+        "change": 13000,
+        "percent_change": 1.4
+      },
+      "1 Year": {
+        "change": -46900,
+        "percent_change": -4.72
+      },
+      "3 Years": {
+        "change": 144000,
+        "percent_change": 18.0
+      },
+      "5 Years": {
+        "change": 248000,
+        "percent_change": 35.5
+      },
+      "10 Years": {
+        "change": 514000,
+        "percent_change": 119.0
+      }
+    },
+    "area_code": ["061"]
+  },
+  {
+    "community": "Danforth",
+    "href": "/danforth/real-estate-price-history.htm",
+    "average_property_price": 1246806,
+    "sub_property_prices": {
+      "Condominiums": 1022791,
+      "Condo Townhomes": 1055448,
+      "Freehold Townhomes": 1192980,
+      "Detached Homes": 1416551
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 521,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 752,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1275,
+        "percent_change": -0.102
+      },
+      "3 Months": {
+        "change": -3484,
+        "percent_change": -0.279
+      },
+      "6 Months": {
+        "change": 18200,
+        "percent_change": 1.48
+      },
+      "1 Year": {
+        "change": -59500,
+        "percent_change": -4.56
+      },
+      "3 Years": {
+        "change": 196000,
+        "percent_change": 18.7
+      },
+      "5 Years": {
+        "change": 338000,
+        "percent_change": 37.1
+      },
+      "10 Years": {
+        "change": 694000,
+        "percent_change": 126.0
+      }
+    },
+    "area_code": ["066"]
+  },
+  {
+    "community": "Danforth Village-East York",
+    "href": "/danforth-village-east-york/real-estate-price-history.htm",
+    "average_property_price": 1180003,
+    "sub_property_prices": {
+      "Condominiums": 873706,
+      "Freehold Townhomes": 1167882,
+      "Detached Homes": 1274321
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 494,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 703,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1251,
+        "percent_change": -0.106
+      },
+      "3 Months": {
+        "change": -3438,
+        "percent_change": -0.29
+      },
+      "6 Months": {
+        "change": 16900,
+        "percent_change": 1.46
+      },
+      "1 Year": {
+        "change": -57000,
+        "percent_change": -4.61
+      },
+      "3 Years": {
+        "change": 184000,
+        "percent_change": 18.5
+      },
+      "5 Years": {
+        "change": 317000,
+        "percent_change": 36.7
+      },
+      "10 Years": {
+        "change": 652000,
+        "percent_change": 124.0
+      }
+    },
+    "area_code": ["059"]
+  },
+  {
+    "community": "Don Valley Village",
+    "href": "/don-valley-village/real-estate-price-history.htm",
+    "average_property_price": 1142981,
+    "sub_property_prices": {
+      "Condominiums": 883267,
+      "Condo Townhomes": 980410,
+      "Freehold Townhomes": 1156693,
+      "Detached Homes": 1278983
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 478,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 635,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1431,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -4030,
+        "percent_change": -0.351
+      },
+      "6 Months": {
+        "change": 15000,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -58300,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 169000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 292000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 608000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["047"]
+  },
+  {
+    "community": "Dorset Park",
+    "href": "/dorset-park/real-estate-price-history.htm",
+    "average_property_price": 1023191,
+    "sub_property_prices": {
+      "Condominiums": 812062,
+      "Condo Townhomes": 965757,
+      "Freehold Townhomes": 934669,
+      "Detached Homes": 1153992
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 428,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 569,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1278,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -3598,
+        "percent_change": -0.35
+      },
+      "6 Months": {
+        "change": 13400,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -52100,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 152000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 261000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 544000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["126"]
+  },
+  {
+    "community": "Dovercourt-Wallace Emerson-Junction",
+    "href": "/dovercourt-wallace-emerson-junction/real-estate-price-history.htm",
+    "average_property_price": 1183494,
+    "sub_property_prices": {
+      "Condominiums": 931650,
+      "Condo Townhomes": 1092906,
+      "Freehold Townhomes": 1164431,
+      "Detached Homes": 1232242
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 495,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 678,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1382,
+        "percent_change": -0.117
+      },
+      "3 Months": {
+        "change": -3856,
+        "percent_change": -0.325
+      },
+      "6 Months": {
+        "change": 16200,
+        "percent_change": 1.38
+      },
+      "1 Year": {
+        "change": -58900,
+        "percent_change": -4.74
+      },
+      "3 Years": {
+        "change": 179000,
+        "percent_change": 17.9
+      },
+      "5 Years": {
+        "change": 309000,
+        "percent_change": 35.3
+      },
+      "10 Years": {
+        "change": 640000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["171"]
+  },
+  {
+    "community": "Dovercourt-Wallace Emerson-Junction",
+    "href": "/dovercourt-wallace-emerson-junction/real-estate-price-history.htm",
+    "average_property_price": 1183494,
+    "sub_property_prices": {
+      "Condominiums": 931650,
+      "Condo Townhomes": 1092906,
+      "Freehold Townhomes": 1164431,
+      "Detached Homes": 1232242
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 495,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 678,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1382,
+        "percent_change": -0.117
+      },
+      "3 Months": {
+        "change": -3856,
+        "percent_change": -0.325
+      },
+      "6 Months": {
+        "change": 16200,
+        "percent_change": 1.38
+      },
+      "1 Year": {
+        "change": -58900,
+        "percent_change": -4.74
+      },
+      "3 Years": {
+        "change": 179000,
+        "percent_change": 17.9
+      },
+      "5 Years": {
+        "change": 309000,
+        "percent_change": 35.3
+      },
+      "10 Years": {
+        "change": 640000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["172"]
+  },
+  {
+    "community": "Downsview-Roding-CFB",
+    "href": "/downsview-roding-cfb/real-estate-price-history.htm",
+    "average_property_price": 1062639,
+    "sub_property_prices": {
+      "Condominiums": 829586,
+      "Condo Townhomes": 924948,
+      "Freehold Townhomes": 1025182,
+      "Detached Homes": 1210193
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 444,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 583,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1368,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3868,
+        "percent_change": -0.363
+      },
+      "6 Months": {
+        "change": 13700,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -54700,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 156000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 269000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 561000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["154"]
+  },
+  {
+    "community": "Downsview-Roding-CFB",
+    "href": "/downsview-roding-cfb/real-estate-price-history.htm",
+    "average_property_price": 1062639,
+    "sub_property_prices": {
+      "Condominiums": 829586,
+      "Condo Townhomes": 924948,
+      "Freehold Townhomes": 1025182,
+      "Detached Homes": 1210193
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 444,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 583,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1368,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3868,
+        "percent_change": -0.363
+      },
+      "6 Months": {
+        "change": 13700,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -54700,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 156000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 269000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 561000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["155"]
+  },
+  {
+    "community": "Dufferin Grove",
+    "href": "/dufferin-grove/real-estate-price-history.htm",
+    "average_property_price": 1183840,
+    "sub_property_prices": {
+      "Condominiums": 900573,
+      "Condo Townhomes": 922376,
+      "Freehold Townhomes": 1228763,
+      "Detached Homes": 1356705
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 495,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 678,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1387,
+        "percent_change": -0.117
+      },
+      "3 Months": {
+        "change": -3870,
+        "percent_change": -0.326
+      },
+      "6 Months": {
+        "change": 16100,
+        "percent_change": 1.38
+      },
+      "1 Year": {
+        "change": -59000,
+        "percent_change": -4.75
+      },
+      "3 Years": {
+        "change": 179000,
+        "percent_change": 17.8
+      },
+      "5 Years": {
+        "change": 309000,
+        "percent_change": 35.3
+      },
+      "10 Years": {
+        "change": 640000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["083"]
+  },
+  {
+    "community": "East End-Danforth",
+    "href": "/east-end-danforth/real-estate-price-history.htm",
+    "average_property_price": 1158263,
+    "sub_property_prices": {
+      "Condominiums": 885787,
+      "Condo Townhomes": 1001035,
+      "Freehold Townhomes": 1157880,
+      "Detached Homes": 1312500
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 484,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 666,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1343,
+        "percent_change": -0.116
+      },
+      "3 Months": {
+        "change": -3743,
+        "percent_change": -0.322
+      },
+      "6 Months": {
+        "change": 15900,
+        "percent_change": 1.39
+      },
+      "1 Year": {
+        "change": -57600,
+        "percent_change": -4.73
+      },
+      "3 Years": {
+        "change": 176000,
+        "percent_change": 17.9
+      },
+      "5 Years": {
+        "change": 303000,
+        "percent_change": 35.4
+      },
+      "10 Years": {
+        "change": 628000,
+        "percent_change": 118.0
+      }
+    },
+    "area_code": ["062"]
+  },
+  {
+    "community": "East York",
+    "href": "/east-york/real-estate-price-history.htm",
+    "average_property_price": 1169342,
+    "sub_property_prices": {
+      "Condominiums": 862121,
+      "Freehold Townhomes": 1088450,
+      "Detached Homes": 1330216
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 489,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 650,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1462,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -4118,
+        "percent_change": -0.351
+      },
+      "6 Months": {
+        "change": 15300,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -59600,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 173000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 299000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 622000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["058"]
+  },
+  {
+    "community": "Edenbridge-Humber Valley",
+    "href": "/edenbridge-humber-valley/real-estate-price-history.htm",
+    "average_property_price": 1256144,
+    "sub_property_prices": {
+      "Condominiums": 900737,
+      "Condo Townhomes": 970926,
+      "Freehold Townhomes": 1083117,
+      "Detached Homes": 1663460
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 525,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 634,
+        "percent_change": 0.051
+      },
+      "30 Days": {
+        "change": -1885,
+        "percent_change": -0.15
+      },
+      "3 Months": {
+        "change": -5425,
+        "percent_change": -0.43
+      },
+      "6 Months": {
+        "change": 14500,
+        "percent_change": 1.16
+      },
+      "1 Year": {
+        "change": -68500,
+        "percent_change": -5.17
+      },
+      "3 Years": {
+        "change": 173000,
+        "percent_change": 16.0
+      },
+      "5 Years": {
+        "change": 300000,
+        "percent_change": 31.3
+      },
+      "10 Years": {
+        "change": 633000,
+        "percent_change": 102.0
+      }
+    },
+    "area_code": ["009"]
+  },
+  {
+    "community": "Eglinton East",
+    "href": "/eglinton-east/real-estate-price-history.htm",
+    "average_property_price": 1049324,
+    "sub_property_prices": {
+      "Condominiums": 819882,
+      "Condo Townhomes": 946654,
+      "Freehold Townhomes": 1042456,
+      "Detached Homes": 1137379
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 439,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 576,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1348,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -3810,
+        "percent_change": -0.362
+      },
+      "6 Months": {
+        "change": 13500,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -54000,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 154000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 266000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 554000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["138"]
+  },
+  {
+    "community": "Elms-Old Rexdale",
+    "href": "/elms-old-rexdale/real-estate-price-history.htm",
+    "average_property_price": 943723,
+    "sub_property_prices": {
+      "Condominiums": 775850,
+      "Condo Townhomes": 864566,
+      "Freehold Townhomes": 855569,
+      "Detached Homes": 1060536
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 395,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 510,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1252,
+        "percent_change": -0.132
+      },
+      "3 Months": {
+        "change": -3551,
+        "percent_change": -0.375
+      },
+      "6 Months": {
+        "change": 11900,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -49100,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 137000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 236000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 494000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["005"]
+  },
+  {
+    "community": "Englemount-Lawrence",
+    "href": "/englemount-lawrence/real-estate-price-history.htm",
+    "average_property_price": 1148505,
+    "sub_property_prices": {
+      "Condominiums": 876316,
+      "Condo Townhomes": 960719,
+      "Freehold Townhomes": 1025568,
+      "Detached Homes": 1457357
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 480,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 618,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1536,
+        "percent_change": -0.134
+      },
+      "3 Months": {
+        "change": -4364,
+        "percent_change": -0.379
+      },
+      "6 Months": {
+        "change": 14400,
+        "percent_change": 1.27
+      },
+      "1 Year": {
+        "change": -60000,
+        "percent_change": -4.96
+      },
+      "3 Years": {
+        "change": 166000,
+        "percent_change": 16.9
+      },
+      "5 Years": {
+        "change": 287000,
+        "percent_change": 33.2
+      },
+      "10 Years": {
+        "change": 600000,
+        "percent_change": 109.0
+      }
+    },
+    "area_code": ["032"]
+  },
+  {
+    "community": "Eringate-Centennial-West Deane",
+    "href": "/eringate-centennial-west-deane/real-estate-price-history.htm",
+    "average_property_price": 1087440,
+    "sub_property_prices": {
+      "Condominiums": 840056,
+      "Condo Townhomes": 985581,
+      "Freehold Townhomes": 1004250,
+      "Detached Homes": 1264179
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 455,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 598,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1395,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -3943,
+        "percent_change": -0.361
+      },
+      "6 Months": {
+        "change": 14000,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -55900,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 160000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 275000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 574000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["011"]
+  },
+  {
+    "community": "Etobicoke West Mall",
+    "href": "/etobicoke-west-mall/real-estate-price-history.htm",
+    "average_property_price": 1026455,
+    "sub_property_prices": {
+      "Condominiums": 839625,
+      "Condo Townhomes": 940860,
+      "Freehold Townhomes": 917056,
+      "Detached Homes": 1161699
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 429,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 558,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1348,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -3819,
+        "percent_change": -0.371
+      },
+      "6 Months": {
+        "change": 13100,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -53200,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 150000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 258000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 539000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["013"]
+  },
+  {
+    "community": "Flemingdon Park",
+    "href": "/flemingdon-park/real-estate-price-history.htm",
+    "average_property_price": 981879,
+    "sub_property_prices": {
+      "Condominiums": 824916,
+      "Condo Townhomes": 700281,
+      "Freehold Townhomes": 1243436
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 411,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 554,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1190,
+        "percent_change": -0.121
+      },
+      "3 Months": {
+        "change": -3339,
+        "percent_change": -0.339
+      },
+      "6 Months": {
+        "change": 13100,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -49500,
+        "percent_change": -4.8
+      },
+      "3 Years": {
+        "change": 147000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 253000,
+        "percent_change": 34.8
+      },
+      "10 Years": {
+        "change": 526000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["044"]
+  },
+  {
+    "community": "Forest Hill North",
+    "href": "/forest-hill-north/real-estate-price-history.htm",
+    "average_property_price": 1370199,
+    "sub_property_prices": {
+      "Condominiums": 885410,
+      "Freehold Townhomes": 1103072,
+      "Detached Homes": 1839641
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 573,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 747,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1786,
+        "percent_change": -0.13
+      },
+      "3 Months": {
+        "change": -5056,
+        "percent_change": -0.368
+      },
+      "6 Months": {
+        "change": 17500,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -70900,
+        "percent_change": -4.92
+      },
+      "3 Years": {
+        "change": 200000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 345000,
+        "percent_change": 33.7
+      },
+      "10 Years": {
+        "change": 721000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["102"]
+  },
+  {
+    "community": "Forest Hill South",
+    "href": "/forest-hill-south/real-estate-price-history.htm",
+    "average_property_price": 2190753,
+    "sub_property_prices": {
+      "Condominiums": 1044457,
+      "Condo Townhomes": 2040926,
+      "Freehold Townhomes": 2528512,
+      "Detached Homes": 2446841
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 916,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 1189,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -2885,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -8178,
+        "percent_change": -0.372
+      },
+      "6 Months": {
+        "change": 27800,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -114000,
+        "percent_change": -4.94
+      },
+      "3 Years": {
+        "change": 319000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 550000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 1150000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["101"]
+  },
+  {
+    "community": "Glenfield-Jane Heights",
+    "href": "/glenfield-jane-heights/real-estate-price-history.htm",
+    "average_property_price": 997862,
+    "sub_property_prices": {
+      "Condominiums": 764405,
+      "Condo Townhomes": 850785,
+      "Freehold Townhomes": 1018724,
+      "Detached Homes": 1132019
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 417,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 542,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1309,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -3710,
+        "percent_change": -0.37
+      },
+      "6 Months": {
+        "change": 12700,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -51700,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 145000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 251000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 524000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["025"]
+  },
+  {
+    "community": "Greenwood-Coxwell",
+    "href": "/greenwood-coxwell/real-estate-price-history.htm",
+    "average_property_price": 1120526,
+    "sub_property_prices": {
+      "Condominiums": 892714,
+      "Condo Townhomes": 919978,
+      "Freehold Townhomes": 1131975,
+      "Detached Homes": 1256988
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 469,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 670,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1173,
+        "percent_change": -0.105
+      },
+      "3 Months": {
+        "change": -3219,
+        "percent_change": -0.286
+      },
+      "6 Months": {
+        "change": 16200,
+        "percent_change": 1.46
+      },
+      "1 Year": {
+        "change": -53900,
+        "percent_change": -4.59
+      },
+      "3 Years": {
+        "change": 175000,
+        "percent_change": 18.5
+      },
+      "5 Years": {
+        "change": 302000,
+        "percent_change": 36.8
+      },
+      "10 Years": {
+        "change": 621000,
+        "percent_change": 124.0
+      }
+    },
+    "area_code": ["065"]
+  },
+  {
+    "community": "Guildwood",
+    "href": "/guildwood/real-estate-price-history.htm",
+    "average_property_price": 1084350,
+    "sub_property_prices": {
+      "Condominiums": 859277,
+      "Condo Townhomes": 946013,
+      "Freehold Townhomes": 1069985,
+      "Detached Homes": 1214609
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 454,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 599,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1376,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -3883,
+        "percent_change": -0.357
+      },
+      "6 Months": {
+        "change": 14100,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -55600,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 160000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 276000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 574000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["140"]
+  },
+  {
+    "community": "Henry Farm",
+    "href": "/henry-farm/real-estate-price-history.htm",
+    "average_property_price": 1203893,
+    "sub_property_prices": {
+      "Condominiums": 907281,
+      "Condo Townhomes": 977113,
+      "Detached Homes": 1460399
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 504,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 687,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1420,
+        "percent_change": -0.118
+      },
+      "3 Months": {
+        "change": -3969,
+        "percent_change": -0.329
+      },
+      "6 Months": {
+        "change": 16300,
+        "percent_change": 1.38
+      },
+      "1 Year": {
+        "change": -60200,
+        "percent_change": -4.76
+      },
+      "3 Years": {
+        "change": 182000,
+        "percent_change": 17.8
+      },
+      "5 Years": {
+        "change": 313000,
+        "percent_change": 35.2
+      },
+      "10 Years": {
+        "change": 650000,
+        "percent_change": 117.0
+      }
+    },
+    "area_code": ["053"]
+  },
+  {
+    "community": "High Park North",
+    "href": "/high-park-north/real-estate-price-history.htm",
+    "average_property_price": 1319796,
+    "sub_property_prices": {
+      "Condominiums": 1017441,
+      "Condo Townhomes": 1234640,
+      "Freehold Townhomes": 1295530,
+      "Detached Homes": 1400865
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 552,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 724,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1699,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -4802,
+        "percent_change": -0.363
+      },
+      "6 Months": {
+        "change": 17000,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -68000,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 194000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 334000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 697000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["088"]
+  },
+  {
+    "community": "High Park-Swansea",
+    "href": "/high-park-swansea/real-estate-price-history.htm",
+    "average_property_price": 1289258,
+    "sub_property_prices": {
+      "Condominiums": 928005,
+      "Condo Townhomes": 1037172,
+      "Freehold Townhomes": 1278279,
+      "Detached Homes": 1582269
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 539,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 712,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1636,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -4616,
+        "percent_change": -0.357
+      },
+      "6 Months": {
+        "change": 16800,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -66100,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 190000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 328000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 683000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["087"]
+  },
+  {
+    "community": "Highland Creek",
+    "href": "/highland-creek/real-estate-price-history.htm",
+    "average_property_price": 962661,
+    "sub_property_prices": {
+      "Condominiums": 485395,
+      "Condo Townhomes": 682725,
+      "Freehold Townhomes": 1242745,
+      "Detached Homes": 1223470
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 403,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 545,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1158,
+        "percent_change": -0.12
+      },
+      "3 Months": {
+        "change": -3245,
+        "percent_change": -0.336
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -48400,
+        "percent_change": -4.79
+      },
+      "3 Years": {
+        "change": 144000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 249000,
+        "percent_change": 34.9
+      },
+      "10 Years": {
+        "change": 517000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["134"]
+  },
+  {
+    "community": "Hillcrest Village",
+    "href": "/hillcrest-village/real-estate-price-history.htm",
+    "average_property_price": 1164429,
+    "sub_property_prices": {
+      "Condominiums": 1011102,
+      "Condo Townhomes": 953615,
+      "Freehold Townhomes": 1081845,
+      "Detached Homes": 1334971
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 487,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 631,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1538,
+        "percent_change": -0.132
+      },
+      "3 Months": {
+        "change": -4361,
+        "percent_change": -0.373
+      },
+      "6 Months": {
+        "change": 14800,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -60500,
+        "percent_change": -4.94
+      },
+      "3 Years": {
+        "change": 169000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 292000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 610000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["048"]
+  },
+  {
+    "community": "Humber Heights",
+    "href": "/humber-heights/real-estate-price-history.htm",
+    "average_property_price": 1162153,
+    "sub_property_prices": {
+      "Condominiums": 854185,
+      "Condo Townhomes": 1026012,
+      "Freehold Townhomes": 1050031,
+      "Detached Homes": 1457824
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 486,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 640,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1486,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -4199,
+        "percent_change": -0.36
+      },
+      "6 Months": {
+        "change": 15000,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -59700,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 171000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 295000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 614000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["008"]
+  },
+  {
+    "community": "Humber Summit",
+    "href": "/humber-summit/real-estate-price-history.htm",
+    "average_property_price": 1005988,
+    "sub_property_prices": {
+      "Condominiums": 810881,
+      "Condo Townhomes": 668822,
+      "Freehold Townhomes": 1036400,
+      "Detached Homes": 1252224
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 421,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 552,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1295,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3661,
+        "percent_change": -0.363
+      },
+      "6 Months": {
+        "change": 13000,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -51800,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 148000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 254000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 531000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["021"]
+  },
+  {
+    "community": "Humberlea-Pelmo Park W4",
+    "href": "/humberlea-pelmo-park-w4/real-estate-price-history.htm",
+    "average_property_price": 1009620,
+    "sub_property_prices": {
+      "Condo Townhomes": 780780,
+      "Freehold Townhomes": 936632,
+      "Detached Homes": 1136843
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 422,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 550,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1317,
+        "percent_change": -0.13
+      },
+      "3 Months": {
+        "change": -3729,
+        "percent_change": -0.368
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -52200,
+        "percent_change": -4.92
+      },
+      "3 Years": {
+        "change": 147000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 254000,
+        "percent_change": 33.6
+      },
+      "10 Years": {
+        "change": 531000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["023"]
+  },
+  {
+    "community": "Humberlea-Pelmo Park W5",
+    "href": "/humberlea-pelmo-park-w5/real-estate-price-history.htm",
+    "average_property_price": 950740,
+    "sub_property_prices": {
+      "Condominiums": 462738,
+      "Condo Townhomes": 914779,
+      "Freehold Townhomes": 998273,
+      "Detached Homes": 1201369
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 398,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 537,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1151,
+        "percent_change": -0.121
+      },
+      "3 Months": {
+        "change": -3228,
+        "percent_change": -0.338
+      },
+      "6 Months": {
+        "change": 12700,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -47900,
+        "percent_change": -4.8
+      },
+      "3 Years": {
+        "change": 142000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 245000,
+        "percent_change": 34.8
+      },
+      "10 Years": {
+        "change": 510000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["023"]
+  },
+  {
+    "community": "Humbermede",
+    "href": "/humbermede/real-estate-price-history.htm",
+    "average_property_price": 918149,
+    "sub_property_prices": {
+      "Condominiums": 402383,
+      "Condo Townhomes": 892566,
+      "Freehold Townhomes": 1032530,
+      "Detached Homes": 1133506
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 384,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 501,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1197,
+        "percent_change": -0.13
+      },
+      "3 Months": {
+        "change": -3391,
+        "percent_change": -0.368
+      },
+      "6 Months": {
+        "change": 11700,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -47500,
+        "percent_change": -4.92
+      },
+      "3 Years": {
+        "change": 134000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 231000,
+        "percent_change": 33.6
+      },
+      "10 Years": {
+        "change": 483000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["022"]
+  },
+  {
+    "community": "Humewood-Cedarvale",
+    "href": "/humewood-cedarvale/real-estate-price-history.htm",
+    "average_property_price": 1381110,
+    "sub_property_prices": {
+      "Condominiums": 998159,
+      "Freehold Townhomes": 1258102,
+      "Detached Homes": 1607495
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 578,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 825,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1449,
+        "percent_change": -0.105
+      },
+      "3 Months": {
+        "change": -3979,
+        "percent_change": -0.287
+      },
+      "6 Months": {
+        "change": 19900,
+        "percent_change": 1.46
+      },
+      "1 Year": {
+        "change": -66500,
+        "percent_change": -4.59
+      },
+      "3 Years": {
+        "change": 216000,
+        "percent_change": 18.5
+      },
+      "5 Years": {
+        "change": 371000,
+        "percent_change": 36.8
+      },
+      "10 Years": {
+        "change": 765000,
+        "percent_change": 124.0
+      }
+    },
+    "area_code": ["106"]
+  },
+  {
+    "community": "Ionview",
+    "href": "/ionview/real-estate-price-history.htm",
+    "average_property_price": 894038,
+    "sub_property_prices": {
+      "Condominiums": 773470,
+      "Condo Townhomes": 671239,
+      "Freehold Townhomes": 798162,
+      "Detached Homes": 1120598
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 374,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 499,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1110,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3122,
+        "percent_change": -0.348
+      },
+      "6 Months": {
+        "change": 11800,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -45500,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 133000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 229000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 476000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["125"]
+  },
+  {
+    "community": "Islington-City Centre West",
+    "href": "/islington-city-centre-west/real-estate-price-history.htm",
+    "average_property_price": 1136960,
+    "sub_property_prices": {
+      "Condominiums": 889354,
+      "Condo Townhomes": 765491,
+      "Freehold Townhomes": 1200337,
+      "Detached Homes": 1408840
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 476,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 633,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1418,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -3993,
+        "percent_change": -0.35
+      },
+      "6 Months": {
+        "change": 14900,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -57900,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 169000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 291000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 605000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["158"]
+  },
+  {
+    "community": "Islington-City Centre West",
+    "href": "/islington-city-centre-west/real-estate-price-history.htm",
+    "average_property_price": 1136960,
+    "sub_property_prices": {
+      "Condominiums": 889354,
+      "Condo Townhomes": 765491,
+      "Freehold Townhomes": 1200337,
+      "Detached Homes": 1408840
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 476,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 633,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1418,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -3993,
+        "percent_change": -0.35
+      },
+      "6 Months": {
+        "change": 14900,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -57900,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 169000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 291000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 605000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["159"]
+  },
+  {
+    "community": "Junction Area",
+    "href": "/junction-area/real-estate-price-history.htm",
+    "average_property_price": 1150806,
+    "sub_property_prices": {
+      "Condominiums": 915596,
+      "Condo Townhomes": 1032795,
+      "Freehold Townhomes": 1117876,
+      "Detached Homes": 1237881
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 481,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 654,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1374,
+        "percent_change": -0.119
+      },
+      "3 Months": {
+        "change": -3844,
+        "percent_change": -0.333
+      },
+      "6 Months": {
+        "change": 15500,
+        "percent_change": 1.37
+      },
+      "1 Year": {
+        "change": -57700,
+        "percent_change": -4.78
+      },
+      "3 Years": {
+        "change": 173000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 298000,
+        "percent_change": 35.0
+      },
+      "10 Years": {
+        "change": 619000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["090"]
+  },
+  {
+    "community": "Keelesdale-Eglinton West",
+    "href": "/keelesdale-eglinton-west/real-estate-price-history.htm",
+    "average_property_price": 1030659,
+    "sub_property_prices": {
+      "Condominiums": 819921,
+      "Condo Townhomes": 940463,
+      "Freehold Townhomes": 993010,
+      "Detached Homes": 1114985
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 431,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 587,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1220,
+        "percent_change": -0.118
+      },
+      "3 Months": {
+        "change": -3410,
+        "percent_change": -0.33
+      },
+      "6 Months": {
+        "change": 14000,
+        "percent_change": 1.37
+      },
+      "1 Year": {
+        "change": -51600,
+        "percent_change": -4.77
+      },
+      "3 Years": {
+        "change": 156000,
+        "percent_change": 17.8
+      },
+      "5 Years": {
+        "change": 268000,
+        "percent_change": 35.1
+      },
+      "10 Years": {
+        "change": 556000,
+        "percent_change": 117.0
+      }
+    },
+    "area_code": ["110"]
+  },
+  {
+    "community": "Kennedy Park",
+    "href": "/kennedy-park/real-estate-price-history.htm",
+    "average_property_price": 890544,
+    "sub_property_prices": {
+      "Condominiums": 813099,
+      "Condo Townhomes": 561793,
+      "Freehold Townhomes": 831768,
+      "Detached Homes": 1140849
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 372,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 500,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1089,
+        "percent_change": -0.122
+      },
+      "3 Months": {
+        "change": -3057,
+        "percent_change": -0.342
+      },
+      "6 Months": {
+        "change": 11800,
+        "percent_change": 1.35
+      },
+      "1 Year": {
+        "change": -45100,
+        "percent_change": -4.82
+      },
+      "3 Years": {
+        "change": 133000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 229000,
+        "percent_change": 34.6
+      },
+      "10 Years": {
+        "change": 476000,
+        "percent_change": 115.0
+      }
+    },
+    "area_code": ["124"]
+  },
+  {
+    "community": "Kensington-Chinatown",
+    "href": "/kensington-chinatown/real-estate-price-history.htm",
+    "average_property_price": 1309875,
+    "sub_property_prices": {
+      "Condominiums": 971016,
+      "Condo Townhomes": 924734,
+      "Freehold Townhomes": 1406608,
+      "Detached Homes": 1628658
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 548,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 720,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1677,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -4738,
+        "percent_change": -0.36
+      },
+      "6 Months": {
+        "change": 16900,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -67300,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 193000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 332000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 692000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["078"]
+  },
+  {
+    "community": "Kingsview Village-The Westway",
+    "href": "/kingsview-village-the-westway/real-estate-price-history.htm",
+    "average_property_price": 1079991,
+    "sub_property_prices": {
+      "Condominiums": 774185,
+      "Condo Townhomes": 987527,
+      "Freehold Townhomes": 858108,
+      "Detached Homes": 1440820
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 452,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 596,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1374,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -3878,
+        "percent_change": -0.358
+      },
+      "6 Months": {
+        "change": 14000,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -55400,
+        "percent_change": -4.88
+      },
+      "3 Years": {
+        "change": 159000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 274000,
+        "percent_change": 34.0
+      },
+      "10 Years": {
+        "change": 572000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["006"]
+  },
+  {
+    "community": "Kingsway South",
+    "href": "/kingsway-south/real-estate-price-history.htm",
+    "average_property_price": 1501969,
+    "sub_property_prices": {
+      "Condominiums": 1203607,
+      "Condo Townhomes": 1388498,
+      "Freehold Townhomes": 1425082,
+      "Detached Homes": 1696619
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 628,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 718,
+        "percent_change": 0.048
+      },
+      "30 Days": {
+        "change": -2448,
+        "percent_change": -0.163
+      },
+      "3 Months": {
+        "change": -7107,
+        "percent_change": -0.471
+      },
+      "6 Months": {
+        "change": 16000,
+        "percent_change": 1.08
+      },
+      "1 Year": {
+        "change": -84700,
+        "percent_change": -5.34
+      },
+      "3 Years": {
+        "change": 200000,
+        "percent_change": 15.3
+      },
+      "5 Years": {
+        "change": 345000,
+        "percent_change": 29.8
+      },
+      "10 Years": {
+        "change": 736000,
+        "percent_change": 96.1
+      }
+    },
+    "area_code": ["015"]
+  },
+  {
+    "community": "L'Amoreaux",
+    "href": "/l-amoreaux/real-estate-price-history.htm",
+    "average_property_price": 1094725,
+    "sub_property_prices": {
+      "Condominiums": 837463,
+      "Condo Townhomes": 960687,
+      "Freehold Townhomes": 1104478,
+      "Detached Homes": 1231157
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 458,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 610,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1363,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3837,
+        "percent_change": -0.349
+      },
+      "6 Months": {
+        "change": 14400,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -55700,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 162000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 280000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 583000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["147"]
+  },
+  {
+    "community": "L'Amoreaux",
+    "href": "/l-amoreaux/real-estate-price-history.htm",
+    "average_property_price": 1094725,
+    "sub_property_prices": {
+      "Condominiums": 837463,
+      "Condo Townhomes": 960687,
+      "Freehold Townhomes": 1104478,
+      "Detached Homes": 1231157
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 458,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 610,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1363,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3837,
+        "percent_change": -0.349
+      },
+      "6 Months": {
+        "change": 14400,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -55700,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 162000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 280000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 583000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["148"]
+  },
+  {
+    "community": "Lambton Baby Point",
+    "href": "/lambton-baby-point/real-estate-price-history.htm",
+    "average_property_price": 1448932,
+    "sub_property_prices": {
+      "Condominiums": 1228789,
+      "Freehold Townhomes": 1190652,
+      "Detached Homes": 1678207
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 606,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 838,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1658,
+        "percent_change": -0.114
+      },
+      "3 Months": {
+        "change": -4612,
+        "percent_change": -0.317
+      },
+      "6 Months": {
+        "change": 20000,
+        "percent_change": 1.4
+      },
+      "1 Year": {
+        "change": -71700,
+        "percent_change": -4.71
+      },
+      "3 Years": {
+        "change": 221000,
+        "percent_change": 18.0
+      },
+      "5 Years": {
+        "change": 380000,
+        "percent_change": 35.6
+      },
+      "10 Years": {
+        "change": 787000,
+        "percent_change": 119.0
+      }
+    },
+    "area_code": ["114"]
+  },
+  {
+    "community": "Lansing-Westgate",
+    "href": "/lansing-westgate/real-estate-price-history.htm",
+    "average_property_price": 1331542,
+    "sub_property_prices": {
+      "Condominiums": 932822,
+      "Freehold Townhomes": 1250569,
+      "Detached Homes": 1568355
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 557,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 737,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1684,
+        "percent_change": -0.126
+      },
+      "3 Months": {
+        "change": -4751,
+        "percent_change": -0.356
+      },
+      "6 Months": {
+        "change": 17400,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -68200,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 197000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 339000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 706000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["038"]
+  },
+  {
+    "community": "Lawrence Park North",
+    "href": "/lawrence-park-north/real-estate-price-history.htm",
+    "average_property_price": 1535719,
+    "sub_property_prices": {
+      "Condominiums": 979790,
+      "Condo Townhomes": 1594091,
+      "Freehold Townhomes": 1344582,
+      "Detached Homes": 1879012
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 642,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 831,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -2034,
+        "percent_change": -0.132
+      },
+      "3 Months": {
+        "change": -5772,
+        "percent_change": -0.374
+      },
+      "6 Months": {
+        "change": 19400,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -79900,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 223000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 384000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 804000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["105"]
+  },
+  {
+    "community": "Lawrence Park South",
+    "href": "/lawrence-park-south/real-estate-price-history.htm",
+    "average_property_price": 1663827,
+    "sub_property_prices": {
+      "Condominiums": 1118961,
+      "Freehold Townhomes": 1567193,
+      "Detached Homes": 1960061
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 696,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 851,
+        "percent_change": 0.051
+      },
+      "30 Days": {
+        "change": -2443,
+        "percent_change": -0.147
+      },
+      "3 Months": {
+        "change": -7015,
+        "percent_change": -0.42
+      },
+      "6 Months": {
+        "change": 19500,
+        "percent_change": 1.19
+      },
+      "1 Year": {
+        "change": -90000,
+        "percent_change": -5.13
+      },
+      "3 Years": {
+        "change": 232000,
+        "percent_change": 16.2
+      },
+      "5 Years": {
+        "change": 400000,
+        "percent_change": 31.7
+      },
+      "10 Years": {
+        "change": 845000,
+        "percent_change": 103.0
+      }
+    },
+    "area_code": ["103"]
+  },
+  {
+    "community": "Leaside",
+    "href": "/leaside/real-estate-price-history.htm",
+    "average_property_price": 1357854,
+    "sub_property_prices": {
+      "Condominiums": 939119,
+      "Condo Townhomes": 982646,
+      "Freehold Townhomes": 1338111,
+      "Detached Homes": 1834750
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 568,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 759,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1680,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -4725,
+        "percent_change": -0.347
+      },
+      "6 Months": {
+        "change": 17900,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -69000,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 202000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 348000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 724000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["056"]
+  },
+  {
+    "community": "Little Portugal",
+    "href": "/little-portugal/real-estate-price-history.htm",
+    "average_property_price": 1265297,
+    "sub_property_prices": {
+      "Condominiums": 965992,
+      "Condo Townhomes": 1170488,
+      "Freehold Townhomes": 1241551,
+      "Detached Homes": 1364317
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 529,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 714,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1533,
+        "percent_change": -0.121
+      },
+      "3 Months": {
+        "change": -4298,
+        "percent_change": -0.339
+      },
+      "6 Months": {
+        "change": 16900,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -63800,
+        "percent_change": -4.8
+      },
+      "3 Years": {
+        "change": 190000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 326000,
+        "percent_change": 34.8
+      },
+      "10 Years": {
+        "change": 678000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["084"]
+  },
+  {
+    "community": "Long Branch",
+    "href": "/long-branch/real-estate-price-history.htm",
+    "average_property_price": 1179837,
+    "sub_property_prices": {
+      "Condominiums": 856640,
+      "Condo Townhomes": 1009679,
+      "Freehold Townhomes": 1271114,
+      "Detached Homes": 1295907
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 493,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 688,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1319,
+        "percent_change": -0.112
+      },
+      "3 Months": {
+        "change": -3655,
+        "percent_change": -0.309
+      },
+      "6 Months": {
+        "change": 16500,
+        "percent_change": 1.42
+      },
+      "1 Year": {
+        "change": -57900,
+        "percent_change": -4.68
+      },
+      "3 Years": {
+        "change": 181000,
+        "percent_change": 18.1
+      },
+      "5 Years": {
+        "change": 312000,
+        "percent_change": 35.9
+      },
+      "10 Years": {
+        "change": 645000,
+        "percent_change": 120.0
+      }
+    },
+    "area_code": ["019"]
+  },
+  {
+    "community": "Malvern",
+    "href": "/malvern/real-estate-price-history.htm",
+    "average_property_price": 1001948,
+    "sub_property_prices": {
+      "Condominiums": 825825,
+      "Condo Townhomes": 914729,
+      "Freehold Townhomes": 994375,
+      "Detached Homes": 1043176
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 419,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 560,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1240,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3489,
+        "percent_change": -0.347
+      },
+      "6 Months": {
+        "change": 13200,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -50900,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 149000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 257000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 534000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["145"]
+  },
+  {
+    "community": "Malvern",
+    "href": "/malvern/real-estate-price-history.htm",
+    "average_property_price": 1001948,
+    "sub_property_prices": {
+      "Condominiums": 825825,
+      "Condo Townhomes": 914729,
+      "Freehold Townhomes": 994375,
+      "Detached Homes": 1043176
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 419,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 560,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1240,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3489,
+        "percent_change": -0.347
+      },
+      "6 Months": {
+        "change": 13200,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -50900,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 149000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 257000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 534000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["146"]
+  },
+  {
+    "community": "Maple Leaf",
+    "href": "/maple-leaf/real-estate-price-history.htm",
+    "average_property_price": 1051926,
+    "sub_property_prices": {
+      "Condominiums": 848542,
+      "Condo Townhomes": 962029,
+      "Freehold Townhomes": 909677,
+      "Detached Homes": 1230195
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 440,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 575,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1362,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3855,
+        "percent_change": -0.365
+      },
+      "6 Months": {
+        "change": 13500,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -54300,
+        "percent_change": -4.91
+      },
+      "3 Years": {
+        "change": 154000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 265000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 554000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["029"]
+  },
+  {
+    "community": "Markland Wood",
+    "href": "/markland-wood/real-estate-price-history.htm",
+    "average_property_price": 1138123,
+    "sub_property_prices": {
+      "Condominiums": 862277,
+      "Condo Townhomes": 977677,
+      "Freehold Townhomes": 1074068,
+      "Detached Homes": 1364219
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 476,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 606,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1553,
+        "percent_change": -0.136
+      },
+      "3 Months": {
+        "change": -4423,
+        "percent_change": -0.387
+      },
+      "6 Months": {
+        "change": 14100,
+        "percent_change": 1.25
+      },
+      "1 Year": {
+        "change": -59900,
+        "percent_change": -5.0
+      },
+      "3 Years": {
+        "change": 163000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 282000,
+        "percent_change": 32.9
+      },
+      "10 Years": {
+        "change": 591000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["012"]
+  },
+  {
+    "community": "Milliken",
+    "href": "/milliken/real-estate-price-history.htm",
+    "average_property_price": 1077336,
+    "sub_property_prices": {
+      "Condominiums": 832592,
+      "Condo Townhomes": 1001389,
+      "Freehold Townhomes": 1039485,
+      "Detached Homes": 1189913
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 451,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 602,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1333,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3749,
+        "percent_change": -0.347
+      },
+      "6 Months": {
+        "change": 14200,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -54700,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 160000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 276000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 574000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["130"]
+  },
+  {
+    "community": "Mimico",
+    "href": "/mimico/real-estate-price-history.htm",
+    "average_property_price": 1209301,
+    "sub_property_prices": {
+      "Condominiums": 1043512,
+      "Condo Townhomes": 1074624,
+      "Freehold Townhomes": 1162205,
+      "Detached Homes": 1248038
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 506,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 650,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1620,
+        "percent_change": -0.134
+      },
+      "3 Months": {
+        "change": -4603,
+        "percent_change": -0.379
+      },
+      "6 Months": {
+        "change": 15200,
+        "percent_change": 1.27
+      },
+      "1 Year": {
+        "change": -63200,
+        "percent_change": -4.97
+      },
+      "3 Years": {
+        "change": 175000,
+        "percent_change": 16.9
+      },
+      "5 Years": {
+        "change": 302000,
+        "percent_change": 33.2
+      },
+      "10 Years": {
+        "change": 631000,
+        "percent_change": 109.0
+      }
+    },
+    "area_code": ["160"]
+  },
+  {
+    "community": "Mimico",
+    "href": "/mimico/real-estate-price-history.htm",
+    "average_property_price": 1209301,
+    "sub_property_prices": {
+      "Condominiums": 1043512,
+      "Condo Townhomes": 1074624,
+      "Freehold Townhomes": 1162205,
+      "Detached Homes": 1248038
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 506,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 650,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1620,
+        "percent_change": -0.134
+      },
+      "3 Months": {
+        "change": -4603,
+        "percent_change": -0.379
+      },
+      "6 Months": {
+        "change": 15200,
+        "percent_change": 1.27
+      },
+      "1 Year": {
+        "change": -63200,
+        "percent_change": -4.97
+      },
+      "3 Years": {
+        "change": 175000,
+        "percent_change": 16.9
+      },
+      "5 Years": {
+        "change": 302000,
+        "percent_change": 33.2
+      },
+      "10 Years": {
+        "change": 631000,
+        "percent_change": 109.0
+      }
+    },
+    "area_code": ["161"]
+  },
+  {
+    "community": "Morningside",
+    "href": "/morningside/real-estate-price-history.htm",
+    "average_property_price": 987091,
+    "sub_property_prices": {
+      "Condominiums": 810331,
+      "Condo Townhomes": 877540,
+      "Freehold Townhomes": 941082,
+      "Detached Homes": 1091808
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 413,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 553,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1216,
+        "percent_change": -0.123
+      },
+      "3 Months": {
+        "change": -3417,
+        "percent_change": -0.345
+      },
+      "6 Months": {
+        "change": 13100,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -50100,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 147000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 253000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 527000,
+        "percent_change": 115.0
+      }
+    },
+    "area_code": ["135"]
+  },
+  {
+    "community": "Moss Park",
+    "href": "/moss-park/real-estate-price-history.htm",
+    "average_property_price": 1394216,
+    "sub_property_prices": {
+      "Condominiums": 984294,
+      "Condo Townhomes": 1053740,
+      "Freehold Townhomes": 1307645,
+      "Detached Homes": 1853773
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 583,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 762,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1807,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -5112,
+        "percent_change": -0.365
+      },
+      "6 Months": {
+        "change": 17900,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -72000,
+        "percent_change": -4.91
+      },
+      "3 Years": {
+        "change": 204000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 352000,
+        "percent_change": 33.7
+      },
+      "10 Years": {
+        "change": 734000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["073"]
+  },
+  {
+    "community": "Mount Dennis",
+    "href": "/mount-dennis/real-estate-price-history.htm",
+    "average_property_price": 916841,
+    "sub_property_prices": {
+      "Condominiums": 825118,
+      "Condo Townhomes": 909035,
+      "Freehold Townhomes": 854696,
+      "Detached Homes": 860178
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 383,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 495,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1217,
+        "percent_change": -0.133
+      },
+      "3 Months": {
+        "change": -3455,
+        "percent_change": -0.375
+      },
+      "6 Months": {
+        "change": 11600,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -47700,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 133000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 229000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 480000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["115"]
+  },
+  {
+    "community": "Mount Olive-Silverstone-Jamestown",
+    "href": "/mount-olive-silverstone-jamestown/real-estate-price-history.htm",
+    "average_property_price": 1016817,
+    "sub_property_prices": {
+      "Condominiums": 823607,
+      "Condo Townhomes": 919096,
+      "Freehold Townhomes": 1022706,
+      "Detached Homes": 1067488
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 425,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 562,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1290,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -3640,
+        "percent_change": -0.357
+      },
+      "6 Months": {
+        "change": 13200,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -52100,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 150000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 258000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 539000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["002"]
+  },
+  {
+    "community": "Mount Pleasant East",
+    "href": "/mount-pleasant-east/real-estate-price-history.htm",
+    "average_property_price": 1437443,
+    "sub_property_prices": {
+      "Condominiums": 981703,
+      "Condo Townhomes": 1385783,
+      "Freehold Townhomes": 1354721,
+      "Detached Homes": 1658923
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 601,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 766,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1960,
+        "percent_change": -0.136
+      },
+      "3 Months": {
+        "change": -5581,
+        "percent_change": -0.387
+      },
+      "6 Months": {
+        "change": 17800,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -75600,
+        "percent_change": -5.0
+      },
+      "3 Years": {
+        "change": 206000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 356000,
+        "percent_change": 32.9
+      },
+      "10 Years": {
+        "change": 747000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["099"]
+  },
+  {
+    "community": "Mount Pleasant West",
+    "href": "/mount-pleasant-west/real-estate-price-history.htm",
+    "average_property_price": 1568739,
+    "sub_property_prices": {
+      "Condominiums": 1006764,
+      "Condo Townhomes": 1183247,
+      "Freehold Townhomes": 1498879,
+      "Detached Homes": 2155287
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 656,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 888,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1888,
+        "percent_change": -0.12
+      },
+      "3 Months": {
+        "change": -5291,
+        "percent_change": -0.336
+      },
+      "6 Months": {
+        "change": 21100,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -78900,
+        "percent_change": -4.79
+      },
+      "3 Years": {
+        "change": 235000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 406000,
+        "percent_change": 34.9
+      },
+      "10 Years": {
+        "change": 842000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["173"]
+  },
+  {
+    "community": "Mount Pleasant West",
+    "href": "/mount-pleasant-west/real-estate-price-history.htm",
+    "average_property_price": 1568739,
+    "sub_property_prices": {
+      "Condominiums": 1006764,
+      "Condo Townhomes": 1183247,
+      "Freehold Townhomes": 1498879,
+      "Detached Homes": 2155287
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 656,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 888,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1888,
+        "percent_change": -0.12
+      },
+      "3 Months": {
+        "change": -5291,
+        "percent_change": -0.336
+      },
+      "6 Months": {
+        "change": 21100,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -78900,
+        "percent_change": -4.79
+      },
+      "3 Years": {
+        "change": 235000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 406000,
+        "percent_change": 34.9
+      },
+      "10 Years": {
+        "change": 842000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["174"]
+  },
+  {
+    "community": "New Toronto",
+    "href": "/new-toronto/real-estate-price-history.htm",
+    "average_property_price": 1099077,
+    "sub_property_prices": {
+      "Condominiums": 843651,
+      "Condo Townhomes": 1007663,
+      "Freehold Townhomes": 1053146,
+      "Detached Homes": 1220625
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 460,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 621,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1329,
+        "percent_change": -0.121
+      },
+      "3 Months": {
+        "change": -3727,
+        "percent_change": -0.338
+      },
+      "6 Months": {
+        "change": 14700,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -55400,
+        "percent_change": -4.8
+      },
+      "3 Years": {
+        "change": 165000,
+        "percent_change": 17.6
+      },
+      "5 Years": {
+        "change": 284000,
+        "percent_change": 34.8
+      },
+      "10 Years": {
+        "change": 589000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["018"]
+  },
+  {
+    "community": "Newtonbrook East",
+    "href": "/newtonbrook-east/real-estate-price-history.htm",
+    "average_property_price": 1297832,
+    "sub_property_prices": {
+      "Condominiums": 944782,
+      "Condo Townhomes": 928809,
+      "Freehold Townhomes": 1452927,
+      "Detached Homes": 1555484
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 543,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 688,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1789,
+        "percent_change": -0.138
+      },
+      "3 Months": {
+        "change": -5100,
+        "percent_change": -0.391
+      },
+      "6 Months": {
+        "change": 16000,
+        "percent_change": 1.25
+      },
+      "1 Year": {
+        "change": -68500,
+        "percent_change": -5.02
+      },
+      "3 Years": {
+        "change": 186000,
+        "percent_change": 16.7
+      },
+      "5 Years": {
+        "change": 320000,
+        "percent_change": 32.8
+      },
+      "10 Years": {
+        "change": 672000,
+        "percent_change": 107.0
+      }
+    },
+    "area_code": ["050"]
+  },
+  {
+    "community": "Newtonbrook West",
+    "href": "/newtonbrook-west/real-estate-price-history.htm",
+    "average_property_price": 1167432,
+    "sub_property_prices": {
+      "Condominiums": 882375,
+      "Condo Townhomes": 987011,
+      "Freehold Townhomes": 1102317,
+      "Detached Homes": 1402093
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 488,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 635,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1527,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -4327,
+        "percent_change": -0.369
+      },
+      "6 Months": {
+        "change": 14900,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -60500,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 170000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 294000,
+        "percent_change": 33.6
+      },
+      "10 Years": {
+        "change": 613000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["036"]
+  },
+  {
+    "community": "Niagara",
+    "href": "/niagara/real-estate-price-history.htm",
+    "average_property_price": 1544945,
+    "sub_property_prices": {
+      "Condominiums": 986569,
+      "Condo Townhomes": 1085988,
+      "Freehold Townhomes": 1334330,
+      "Detached Homes": 2363685
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 646,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 925,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1611,
+        "percent_change": -0.104
+      },
+      "3 Months": {
+        "change": -4419,
+        "percent_change": -0.285
+      },
+      "6 Months": {
+        "change": 22300,
+        "percent_change": 1.47
+      },
+      "1 Year": {
+        "change": -74200,
+        "percent_change": -4.58
+      },
+      "3 Years": {
+        "change": 242000,
+        "percent_change": 18.6
+      },
+      "5 Years": {
+        "change": 416000,
+        "percent_change": 36.9
+      },
+      "10 Years": {
+        "change": 857000,
+        "percent_change": 125.0
+      }
+    },
+    "area_code": ["162"]
+  },
+  {
+    "community": "Niagara",
+    "href": "/niagara/real-estate-price-history.htm",
+    "average_property_price": 1544945,
+    "sub_property_prices": {
+      "Condominiums": 986569,
+      "Condo Townhomes": 1085988,
+      "Freehold Townhomes": 1334330,
+      "Detached Homes": 2363685
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 646,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 925,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1611,
+        "percent_change": -0.104
+      },
+      "3 Months": {
+        "change": -4419,
+        "percent_change": -0.285
+      },
+      "6 Months": {
+        "change": 22300,
+        "percent_change": 1.47
+      },
+      "1 Year": {
+        "change": -74200,
+        "percent_change": -4.58
+      },
+      "3 Years": {
+        "change": 242000,
+        "percent_change": 18.6
+      },
+      "5 Years": {
+        "change": 416000,
+        "percent_change": 36.9
+      },
+      "10 Years": {
+        "change": 857000,
+        "percent_change": 125.0
+      }
+    },
+    "area_code": ["163"]
+  },
+  {
+    "community": "North Riverdale",
+    "href": "/north-riverdale/real-estate-price-history.htm",
+    "average_property_price": 1315553,
+    "sub_property_prices": {
+      "Condominiums": 1082151,
+      "Condo Townhomes": 1001257,
+      "Freehold Townhomes": 1330297,
+      "Detached Homes": 1476574
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 550,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 718,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1713,
+        "percent_change": -0.13
+      },
+      "3 Months": {
+        "change": -4849,
+        "percent_change": -0.367
+      },
+      "6 Months": {
+        "change": 16800,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -68000,
+        "percent_change": -4.92
+      },
+      "3 Years": {
+        "change": 192000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 331000,
+        "percent_change": 33.7
+      },
+      "10 Years": {
+        "change": 692000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["068"]
+  },
+  {
+    "community": "North St. James Town",
+    "href": "/north-st-james-town/real-estate-price-history.htm",
+    "average_property_price": 1621804,
+    "sub_property_prices": {
+      "Condominiums": 1017233,
+      "Condo Townhomes": 1022208,
+      "Freehold Townhomes": 1634759,
+      "Detached Homes": 2436289
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 678,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 882,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -2126,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -6023,
+        "percent_change": -0.37
+      },
+      "6 Months": {
+        "change": 20700,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -84100,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 236000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 408000,
+        "percent_change": 33.6
+      },
+      "10 Years": {
+        "change": 852000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["074"]
+  },
+  {
+    "community": "O'Connor-Parkview",
+    "href": "/o-connor-parkview/real-estate-price-history.htm",
+    "average_property_price": 967712,
+    "sub_property_prices": {
+      "Condominiums": 538319,
+      "Condo Townhomes": 830479,
+      "Freehold Townhomes": 999635,
+      "Detached Homes": 1271916
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 405,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 553,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1140,
+        "percent_change": -0.118
+      },
+      "3 Months": {
+        "change": -3184,
+        "percent_change": -0.328
+      },
+      "6 Months": {
+        "change": 13200,
+        "percent_change": 1.38
+      },
+      "1 Year": {
+        "change": -48300,
+        "percent_change": -4.76
+      },
+      "3 Years": {
+        "change": 146000,
+        "percent_change": 17.8
+      },
+      "5 Years": {
+        "change": 252000,
+        "percent_change": 35.2
+      },
+      "10 Years": {
+        "change": 522000,
+        "percent_change": 117.0
+      }
+    },
+    "area_code": ["054"]
+  },
+  {
+    "community": "Oakridge",
+    "href": "/oakridge/real-estate-price-history.htm",
+    "average_property_price": 1143018,
+    "sub_property_prices": {
+      "Condominiums": 829429,
+      "Condo Townhomes": 1364288,
+      "Freehold Townhomes": 1038656,
+      "Detached Homes": 1069974
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 478,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 612,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1544,
+        "percent_change": -0.135
+      },
+      "3 Months": {
+        "change": -4392,
+        "percent_change": -0.383
+      },
+      "6 Months": {
+        "change": 14300,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -59900,
+        "percent_change": -4.98
+      },
+      "3 Years": {
+        "change": 165000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 284000,
+        "percent_change": 33.1
+      },
+      "10 Years": {
+        "change": 595000,
+        "percent_change": 109.0
+      }
+    },
+    "area_code": ["121"]
+  },
+  {
+    "community": "Oakwood-Vaughan",
+    "href": "/oakwood-vaughan/real-estate-price-history.htm",
+    "average_property_price": 1132327,
+    "sub_property_prices": {
+      "Condominiums": 867499,
+      "Condo Townhomes": 1063851,
+      "Freehold Townhomes": 1111451,
+      "Detached Homes": 1216662
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 474,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 663,
+        "percent_change": 0.059
+      },
+      "30 Days": {
+        "change": -1254,
+        "percent_change": -0.111
+      },
+      "3 Months": {
+        "change": -3470,
+        "percent_change": -0.306
+      },
+      "6 Months": {
+        "change": 15900,
+        "percent_change": 1.42
+      },
+      "1 Year": {
+        "change": -55400,
+        "percent_change": -4.67
+      },
+      "3 Years": {
+        "change": 174000,
+        "percent_change": 18.2
+      },
+      "5 Years": {
+        "change": 300000,
+        "percent_change": 36.1
+      },
+      "10 Years": {
+        "change": 620000,
+        "percent_change": 121.0
+      }
+    },
+    "area_code": ["107"]
+  },
+  {
+    "community": "Palmerston-Little Italy",
+    "href": "/palmerston-little-italy/real-estate-price-history.htm",
+    "average_property_price": 1444209,
+    "sub_property_prices": {
+      "Condominiums": 1136401,
+      "Condo Townhomes": 1255802,
+      "Freehold Townhomes": 1324611,
+      "Detached Homes": 1598394
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 604,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 863,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1513,
+        "percent_change": -0.105
+      },
+      "3 Months": {
+        "change": -4151,
+        "percent_change": -0.287
+      },
+      "6 Months": {
+        "change": 20800,
+        "percent_change": 1.46
+      },
+      "1 Year": {
+        "change": -69500,
+        "percent_change": -4.59
+      },
+      "3 Years": {
+        "change": 226000,
+        "percent_change": 18.5
+      },
+      "5 Years": {
+        "change": 389000,
+        "percent_change": 36.8
+      },
+      "10 Years": {
+        "change": 800000,
+        "percent_change": 124.0
+      }
+    },
+    "area_code": ["080"]
+  },
+  {
+    "community": "Parkwoods-Donalda",
+    "href": "/parkwoods-donalda/real-estate-price-history.htm",
+    "average_property_price": 1103928,
+    "sub_property_prices": {
+      "Condominiums": 851847,
+      "Condo Townhomes": 812101,
+      "Freehold Townhomes": 1073710,
+      "Detached Homes": 1412618
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 462,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 612,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1391,
+        "percent_change": -0.126
+      },
+      "3 Months": {
+        "change": -3922,
+        "percent_change": -0.354
+      },
+      "6 Months": {
+        "change": 14400,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -56400,
+        "percent_change": -4.86
+      },
+      "3 Years": {
+        "change": 163000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 281000,
+        "percent_change": 34.2
+      },
+      "10 Years": {
+        "change": 586000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["149"]
+  },
+  {
+    "community": "Parkwoods-Donalda",
+    "href": "/parkwoods-donalda/real-estate-price-history.htm",
+    "average_property_price": 1103928,
+    "sub_property_prices": {
+      "Condominiums": 851847,
+      "Condo Townhomes": 812101,
+      "Freehold Townhomes": 1073710,
+      "Detached Homes": 1412618
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 462,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 612,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1391,
+        "percent_change": -0.126
+      },
+      "3 Months": {
+        "change": -3922,
+        "percent_change": -0.354
+      },
+      "6 Months": {
+        "change": 14400,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -56400,
+        "percent_change": -4.86
+      },
+      "3 Years": {
+        "change": 163000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 281000,
+        "percent_change": 34.2
+      },
+      "10 Years": {
+        "change": 586000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["150"]
+  },
+  {
+    "community": "Playter Estates-Danforth",
+    "href": "/playter-estates-danforth/real-estate-price-history.htm",
+    "average_property_price": 1656718,
+    "sub_property_prices": {
+      "Condo Townhomes": 1190508,
+      "Freehold Townhomes": 1297260,
+      "Detached Homes": 2176929
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 693,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 920,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -2081,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -5865,
+        "percent_change": -0.353
+      },
+      "6 Months": {
+        "change": 21700,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -84600,
+        "percent_change": -4.86
+      },
+      "3 Years": {
+        "change": 245000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 422000,
+        "percent_change": 34.2
+      },
+      "10 Years": {
+        "change": 880000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["067"]
+  },
+  {
+    "community": "Pleasant View",
+    "href": "/pleasant-view/real-estate-price-history.htm",
+    "average_property_price": 1102734,
+    "sub_property_prices": {
+      "Condominiums": 824012,
+      "Condo Townhomes": 945666,
+      "Freehold Townhomes": 1100004,
+      "Detached Homes": 1281075
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 461,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 603,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1430,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -4046,
+        "percent_change": -0.366
+      },
+      "6 Months": {
+        "change": 14100,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -56900,
+        "percent_change": -4.91
+      },
+      "3 Years": {
+        "change": 161000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 278000,
+        "percent_change": 33.7
+      },
+      "10 Years": {
+        "change": 581000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["046"]
+  },
+  {
+    "community": "Princess-Rosethorn",
+    "href": "/princess-rosethorn/real-estate-price-history.htm",
+    "average_property_price": 1258752,
+    "sub_property_prices": {
+      "Condo Townhomes": 657745,
+      "Freehold Townhomes": 1348336,
+      "Detached Homes": 1537486
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 526,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 666,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1739,
+        "percent_change": -0.138
+      },
+      "3 Months": {
+        "change": -4960,
+        "percent_change": -0.392
+      },
+      "6 Months": {
+        "change": 15500,
+        "percent_change": 1.24
+      },
+      "1 Year": {
+        "change": -66500,
+        "percent_change": -5.02
+      },
+      "3 Years": {
+        "change": 180000,
+        "percent_change": 16.7
+      },
+      "5 Years": {
+        "change": 310000,
+        "percent_change": 32.7
+      },
+      "10 Years": {
+        "change": 651000,
+        "percent_change": 107.0
+      }
+    },
+    "area_code": ["010"]
+  },
+  {
+    "community": "Regent Park",
+    "href": "/regent-park/real-estate-price-history.htm",
+    "average_property_price": 1474376,
+    "sub_property_prices": {
+      "Condominiums": 939978,
+      "Condo Townhomes": 1111957,
+      "Freehold Townhomes": 1350126,
+      "Detached Homes": 2120626
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 617,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 866,
+        "percent_change": 0.059
+      },
+      "30 Days": {
+        "change": -1619,
+        "percent_change": -0.11
+      },
+      "3 Months": {
+        "change": -4476,
+        "percent_change": -0.303
+      },
+      "6 Months": {
+        "change": 20800,
+        "percent_change": 1.43
+      },
+      "1 Year": {
+        "change": -72000,
+        "percent_change": -4.65
+      },
+      "3 Years": {
+        "change": 228000,
+        "percent_change": 18.3
+      },
+      "5 Years": {
+        "change": 392000,
+        "percent_change": 36.2
+      },
+      "10 Years": {
+        "change": 809000,
+        "percent_change": 122.0
+      }
+    },
+    "area_code": ["072"]
+  },
+  {
+    "community": "Rexdale-Kipling",
+    "href": "/rexdale-kipling/real-estate-price-history.htm",
+    "average_property_price": 844092,
+    "sub_property_prices": {
+      "Condominiums": 814012,
+      "Condo Townhomes": 468551,
+      "Freehold Townhomes": 847427,
+      "Detached Homes": 1044898
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 353,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 454,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1130,
+        "percent_change": -0.134
+      },
+      "3 Months": {
+        "change": -3209,
+        "percent_change": -0.379
+      },
+      "6 Months": {
+        "change": 10600,
+        "percent_change": 1.27
+      },
+      "1 Year": {
+        "change": -44100,
+        "percent_change": -4.96
+      },
+      "3 Years": {
+        "change": 122000,
+        "percent_change": 16.9
+      },
+      "5 Years": {
+        "change": 211000,
+        "percent_change": 33.2
+      },
+      "10 Years": {
+        "change": 441000,
+        "percent_change": 109.0
+      }
+    },
+    "area_code": ["004"]
+  },
+  {
+    "community": "Rockcliffe-Smythe",
+    "href": "/rockcliffe-smythe/real-estate-price-history.htm",
+    "average_property_price": 954223,
+    "sub_property_prices": {
+      "Condominiums": 880254,
+      "Condo Townhomes": 592754,
+      "Freehold Townhomes": 1044082,
+      "Detached Homes": 1068017
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 399,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 532,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1188,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3343,
+        "percent_change": -0.349
+      },
+      "6 Months": {
+        "change": 12600,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -48600,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 142000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 244000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 508000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["111"]
+  },
+  {
+    "community": "Roncesvalles",
+    "href": "/roncesvalles/real-estate-price-history.htm",
+    "average_property_price": 1450204,
+    "sub_property_prices": {
+      "Condominiums": 1031762,
+      "Condo Townhomes": 1233746,
+      "Freehold Townhomes": 1283177,
+      "Detached Homes": 1869792
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 607,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 859,
+        "percent_change": 0.059
+      },
+      "30 Days": {
+        "change": -1559,
+        "percent_change": -0.107
+      },
+      "3 Months": {
+        "change": -4296,
+        "percent_change": -0.295
+      },
+      "6 Months": {
+        "change": 20700,
+        "percent_change": 1.45
+      },
+      "1 Year": {
+        "change": -70300,
+        "percent_change": -4.63
+      },
+      "3 Years": {
+        "change": 225000,
+        "percent_change": 18.4
+      },
+      "5 Years": {
+        "change": 387000,
+        "percent_change": 36.5
+      },
+      "10 Years": {
+        "change": 799000,
+        "percent_change": 123.0
+      }
+    },
+    "area_code": ["086"]
+  },
+  {
+    "community": "Rosedale-Moore Park",
+    "href": "/rosedale-moore-park/real-estate-price-history.htm",
+    "average_property_price": 1890467,
+    "sub_property_prices": {
+      "Condominiums": 1124749,
+      "Condo Townhomes": 2000392,
+      "Freehold Townhomes": 1720553,
+      "Detached Homes": 2252778
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 791,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 991,
+        "percent_change": 0.052
+      },
+      "30 Days": {
+        "change": -2658,
+        "percent_change": -0.14
+      },
+      "3 Months": {
+        "change": -7597,
+        "percent_change": -0.4
+      },
+      "6 Months": {
+        "change": 22900,
+        "percent_change": 1.23
+      },
+      "1 Year": {
+        "change": -101000,
+        "percent_change": -5.05
+      },
+      "3 Years": {
+        "change": 268000,
+        "percent_change": 16.5
+      },
+      "5 Years": {
+        "change": 463000,
+        "percent_change": 32.4
+      },
+      "10 Years": {
+        "change": 973000,
+        "percent_change": 106.0
+      }
+    },
+    "area_code": ["098"]
+  },
+  {
+    "community": "Rouge E10",
+    "href": "/rouge-e10/real-estate-price-history.htm",
+    "average_property_price": 869297,
+    "sub_property_prices": {
+      "Condominiums": 435568,
+      "Condo Townhomes": 688370,
+      "Freehold Townhomes": 946125,
+      "Detached Homes": 1198372
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 364,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 476,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1122,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3173,
+        "percent_change": -0.364
+      },
+      "6 Months": {
+        "change": 11200,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -44800,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 127000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 220000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 458000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["143"]
+  },
+  {
+    "community": "Rouge E11",
+    "href": "/rouge-e11/real-estate-price-history.htm",
+    "average_property_price": 1046180,
+    "sub_property_prices": {
+      "Condominiums": 836988,
+      "Condo Townhomes": 916510,
+      "Freehold Townhomes": 1015548,
+      "Detached Homes": 1177650
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 438,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 576,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1335,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -3770,
+        "percent_change": -0.359
+      },
+      "6 Months": {
+        "change": 13600,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -53700,
+        "percent_change": -4.88
+      },
+      "3 Years": {
+        "change": 154000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 265000,
+        "percent_change": 34.0
+      },
+      "10 Years": {
+        "change": 553000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["144"]
+  },
+  {
+    "community": "Runnymede-Bloor West Village",
+    "href": "/runnymede-bloor-west-village/real-estate-price-history.htm",
+    "average_property_price": 1142806,
+    "sub_property_prices": {
+      "Condominiums": 828223,
+      "Condo Townhomes": 911586,
+      "Freehold Townhomes": 1189957,
+      "Detached Homes": 1324858
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 478,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 630,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1456,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -4112,
+        "percent_change": -0.359
+      },
+      "6 Months": {
+        "change": 14800,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -58700,
+        "percent_change": -4.88
+      },
+      "3 Years": {
+        "change": 168000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 290000,
+        "percent_change": 34.0
+      },
+      "10 Years": {
+        "change": 605000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["089"]
+  },
+  {
+    "community": "Rustic",
+    "href": "/rustic/real-estate-price-history.htm",
+    "average_property_price": 912130,
+    "sub_property_prices": {
+      "Condominiums": 408624,
+      "Freehold Townhomes": 930345,
+      "Detached Homes": 1228266
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 381,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 494,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1208,
+        "percent_change": -0.132
+      },
+      "3 Months": {
+        "change": -3427,
+        "percent_change": -0.374
+      },
+      "6 Months": {
+        "change": 11500,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -47500,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 132000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 228000,
+        "percent_change": 33.4
+      },
+      "10 Years": {
+        "change": 478000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["028"]
+  },
+  {
+    "community": "Scarborough Village",
+    "href": "/scarborough-village/real-estate-price-history.htm",
+    "average_property_price": 1058784,
+    "sub_property_prices": {
+      "Condominiums": 804555,
+      "Condo Townhomes": 873833,
+      "Freehold Townhomes": 868594,
+      "Detached Homes": 1460205
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 443,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 591,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1312,
+        "percent_change": -0.124
+      },
+      "3 Months": {
+        "change": -3690,
+        "percent_change": -0.347
+      },
+      "6 Months": {
+        "change": 14000,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -53800,
+        "percent_change": -4.84
+      },
+      "3 Years": {
+        "change": 157000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 271000,
+        "percent_change": 34.4
+      },
+      "10 Years": {
+        "change": 564000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["139"]
+  },
+  {
+    "community": "South Parkdale",
+    "href": "/south-parkdale/real-estate-price-history.htm",
+    "average_property_price": 1261918,
+    "sub_property_prices": {
+      "Condominiums": 912115,
+      "Condo Townhomes": 920066,
+      "Freehold Townhomes": 1489992,
+      "Detached Homes": 1417745
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 528,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 753,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1329,
+        "percent_change": -0.105
+      },
+      "3 Months": {
+        "change": -3650,
+        "percent_change": -0.288
+      },
+      "6 Months": {
+        "change": 18200,
+        "percent_change": 1.46
+      },
+      "1 Year": {
+        "change": -60800,
+        "percent_change": -4.6
+      },
+      "3 Years": {
+        "change": 197000,
+        "percent_change": 18.5
+      },
+      "5 Years": {
+        "change": 339000,
+        "percent_change": 36.7
+      },
+      "10 Years": {
+        "change": 699000,
+        "percent_change": 124.0
+      }
+    },
+    "area_code": ["085"]
+  },
+  {
+    "community": "South Riverdale",
+    "href": "/south-riverdale/real-estate-price-history.htm",
+    "average_property_price": 1229611,
+    "sub_property_prices": {
+      "Condominiums": 1012050,
+      "Condo Townhomes": 1036086,
+      "Freehold Townhomes": 1216130,
+      "Detached Homes": 1334571
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 514,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 737,
+        "percent_change": 0.06
+      },
+      "30 Days": {
+        "change": -1278,
+        "percent_change": -0.104
+      },
+      "3 Months": {
+        "change": -3501,
+        "percent_change": -0.284
+      },
+      "6 Months": {
+        "change": 17800,
+        "percent_change": 1.47
+      },
+      "1 Year": {
+        "change": -59000,
+        "percent_change": -4.58
+      },
+      "3 Years": {
+        "change": 193000,
+        "percent_change": 18.6
+      },
+      "5 Years": {
+        "change": 332000,
+        "percent_change": 36.9
+      },
+      "10 Years": {
+        "change": 683000,
+        "percent_change": 125.0
+      }
+    },
+    "area_code": ["070"]
+  },
+  {
+    "community": "St. Andrew-Windfields",
+    "href": "/st-andrew-windfields/real-estate-price-history.htm",
+    "average_property_price": 1467955,
+    "sub_property_prices": {
+      "Condominiums": 954004,
+      "Condo Townhomes": 1112881,
+      "Freehold Townhomes": 1245512,
+      "Detached Homes": 2213570
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 614,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 807,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1880,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -5311,
+        "percent_change": -0.36
+      },
+      "6 Months": {
+        "change": 19000,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -75500,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 216000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 372000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 776000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["040"]
+  },
+  {
+    "community": "Steeles",
+    "href": "/steeles/real-estate-price-history.htm",
+    "average_property_price": 1084164,
+    "sub_property_prices": {
+      "Condominiums": 858469,
+      "Condo Townhomes": 930078,
+      "Freehold Townhomes": 1058004,
+      "Detached Homes": 1235791
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 453,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 589,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1423,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -4033,
+        "percent_change": -0.371
+      },
+      "6 Months": {
+        "change": 13800,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -56200,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 158000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 272000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 569000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["116"]
+  },
+  {
+    "community": "Stonegate-Queensway",
+    "href": "/stonegate-queensway/real-estate-price-history.htm",
+    "average_property_price": 1269968,
+    "sub_property_prices": {
+      "Condominiums": 906397,
+      "Condo Townhomes": 1266695,
+      "Freehold Townhomes": 1061958,
+      "Detached Homes": 1525408
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 531,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 695,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1643,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -4648,
+        "percent_change": -0.365
+      },
+      "6 Months": {
+        "change": 16300,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -65500,
+        "percent_change": -4.91
+      },
+      "3 Years": {
+        "change": 186000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 321000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 669000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["016"]
+  },
+  {
+    "community": "Tam O'Shanter-Sullivan",
+    "href": "/tam-o-shanter-sullivan/real-estate-price-history.htm",
+    "average_property_price": 1007807,
+    "sub_property_prices": {
+      "Condominiums": 889701,
+      "Condo Townhomes": 756849,
+      "Freehold Townhomes": 915628,
+      "Detached Homes": 1218901
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 421,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 548,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1321,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -3743,
+        "percent_change": -0.37
+      },
+      "6 Months": {
+        "change": 12800,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -52200,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 147000,
+        "percent_change": 17.1
+      },
+      "5 Years": {
+        "change": 253000,
+        "percent_change": 33.6
+      },
+      "10 Years": {
+        "change": 529000,
+        "percent_change": 111.0
+      }
+    },
+    "area_code": ["118"]
+  },
+  {
+    "community": "The Beaches",
+    "href": "/the-beaches/real-estate-price-history.htm",
+    "average_property_price": 1329933,
+    "sub_property_prices": {
+      "Condominiums": 1044016,
+      "Condo Townhomes": 1076769,
+      "Freehold Townhomes": 1287028,
+      "Detached Homes": 1590821
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 556,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 739,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1664,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -4688,
+        "percent_change": -0.351
+      },
+      "6 Months": {
+        "change": 17400,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -67800,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 197000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 340000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 707000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["063"]
+  },
+  {
+    "community": "Thistletown-Beaumonde Heights",
+    "href": "/thistletown-beaumonde-heights/real-estate-price-history.htm",
+    "average_property_price": 1121640,
+    "sub_property_prices": {
+      "Condo Townhomes": 984906,
+      "Freehold Townhomes": 1054417,
+      "Detached Homes": 1127360
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 469,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 621,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1417,
+        "percent_change": -0.126
+      },
+      "3 Months": {
+        "change": -3996,
+        "percent_change": -0.355
+      },
+      "6 Months": {
+        "change": 14600,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -57400,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 166000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 285000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 595000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["003"]
+  },
+  {
+    "community": "Thorncliffe Park",
+    "href": "/thorncliffe-park/real-estate-price-history.htm",
+    "average_property_price": 991184,
+    "sub_property_prices": {
+      "Condominiums": 854085,
+      "Condo Townhomes": 1010800
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 415,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 527,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1359,
+        "percent_change": -0.137
+      },
+      "3 Months": {
+        "change": -3872,
+        "percent_change": -0.389
+      },
+      "6 Months": {
+        "change": 12200,
+        "percent_change": 1.25
+      },
+      "1 Year": {
+        "change": -52200,
+        "percent_change": -5.01
+      },
+      "3 Years": {
+        "change": 142000,
+        "percent_change": 16.7
+      },
+      "5 Years": {
+        "change": 245000,
+        "percent_change": 32.8
+      },
+      "10 Years": {
+        "change": 514000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["055"]
+  },
+  {
+    "community": "Trinity-Bellwoods",
+    "href": "/trinity-bellwoods/real-estate-price-history.htm",
+    "average_property_price": 1367156,
+    "sub_property_prices": {
+      "Condominiums": 1027780,
+      "Condo Townhomes": 1148653,
+      "Freehold Townhomes": 1337980,
+      "Detached Homes": 1582348
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 572,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 774,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1645,
+        "percent_change": -0.12
+      },
+      "3 Months": {
+        "change": -4608,
+        "percent_change": -0.336
+      },
+      "6 Months": {
+        "change": 18400,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -68800,
+        "percent_change": -4.79
+      },
+      "3 Years": {
+        "change": 205000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 353000,
+        "percent_change": 34.9
+      },
+      "10 Years": {
+        "change": 734000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["081"]
+  },
+  {
+    "community": "University",
+    "href": "/university/real-estate-price-history.htm",
+    "average_property_price": 1612004,
+    "sub_property_prices": {
+      "Condominiums": 1067578,
+      "Condo Townhomes": 1514803,
+      "Freehold Townhomes": 1412507,
+      "Detached Homes": 2029401
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 674,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 859,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -2197,
+        "percent_change": -0.136
+      },
+      "3 Months": {
+        "change": -6256,
+        "percent_change": -0.387
+      },
+      "6 Months": {
+        "change": 20000,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -84800,
+        "percent_change": -5.0
+      },
+      "3 Years": {
+        "change": 232000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 399000,
+        "percent_change": 32.9
+      },
+      "10 Years": {
+        "change": 837000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["079"]
+  },
+  {
+    "community": "Victoria Village",
+    "href": "/victoria-village/real-estate-price-history.htm",
+    "average_property_price": 986899,
+    "sub_property_prices": {
+      "Condominiums": 840708,
+      "Condo Townhomes": 607093,
+      "Freehold Townhomes": 1010174,
+      "Detached Homes": 1250926
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 413,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 546,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1248,
+        "percent_change": -0.126
+      },
+      "3 Months": {
+        "change": -3521,
+        "percent_change": -0.356
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -50500,
+        "percent_change": -4.87
+      },
+      "3 Years": {
+        "change": 146000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 251000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 523000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["043"]
+  },
+  {
+    "community": "Waterfront Communities C1",
+    "href": "/waterfront-communities-c1/real-estate-price-history.htm",
+    "average_property_price": 1823750,
+    "sub_property_prices": {
+      "Condominiums": 1006861,
+      "Condo Townhomes": 1202161,
+      "Freehold Townhomes": 1866617,
+      "Detached Homes": 2758813
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 763,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 984,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -2428,
+        "percent_change": -0.133
+      },
+      "3 Months": {
+        "change": -6892,
+        "percent_change": -0.376
+      },
+      "6 Months": {
+        "change": 23000,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -95100,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 264000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 456000,
+        "percent_change": 33.3
+      },
+      "10 Years": {
+        "change": 954000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["164"]
+  },
+  {
+    "community": "Waterfront Communities C1",
+    "href": "/waterfront-communities-c1/real-estate-price-history.htm",
+    "average_property_price": 1823750,
+    "sub_property_prices": {
+      "Condominiums": 1006861,
+      "Condo Townhomes": 1202161,
+      "Freehold Townhomes": 1866617,
+      "Detached Homes": 2758813
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 763,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 984,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -2428,
+        "percent_change": -0.133
+      },
+      "3 Months": {
+        "change": -6892,
+        "percent_change": -0.376
+      },
+      "6 Months": {
+        "change": 23000,
+        "percent_change": 1.28
+      },
+      "1 Year": {
+        "change": -95100,
+        "percent_change": -4.95
+      },
+      "3 Years": {
+        "change": 264000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 456000,
+        "percent_change": 33.3
+      },
+      "10 Years": {
+        "change": 954000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["165"]
+  },
+  {
+    "community": "Waterfront Communities C8",
+    "href": "/waterfront-communities-c8/real-estate-price-history.htm",
+    "average_property_price": 1247575,
+    "sub_property_prices": {
+      "Condominiums": 1034768,
+      "Condo Townhomes": 1218693,
+      "Freehold Townhomes": 1203137
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 522,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 695,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1556,
+        "percent_change": -0.125
+      },
+      "3 Months": {
+        "change": -4380,
+        "percent_change": -0.35
+      },
+      "6 Months": {
+        "change": 16400,
+        "percent_change": 1.33
+      },
+      "1 Year": {
+        "change": -63500,
+        "percent_change": -4.85
+      },
+      "3 Years": {
+        "change": 185000,
+        "percent_change": 17.4
+      },
+      "5 Years": {
+        "change": 319000,
+        "percent_change": 34.3
+      },
+      "10 Years": {
+        "change": 664000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["166"]
+  },
+  {
+    "community": "West Hill",
+    "href": "/west-hill/real-estate-price-history.htm",
+    "average_property_price": 1000727,
+    "sub_property_prices": {
+      "Condominiums": 762238,
+      "Condo Townhomes": 856472,
+      "Freehold Townhomes": 988009,
+      "Detached Homes": 1162254
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 419,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 560,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1236,
+        "percent_change": -0.123
+      },
+      "3 Months": {
+        "change": -3477,
+        "percent_change": -0.346
+      },
+      "6 Months": {
+        "change": 13200,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -50800,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 149000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 257000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 534000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["136"]
+  },
+  {
+    "community": "West Humber-Clairville",
+    "href": "/west-humber-clairville/real-estate-price-history.htm",
+    "average_property_price": 1011094,
+    "sub_property_prices": {
+      "Condominiums": 841142,
+      "Condo Townhomes": 896710,
+      "Freehold Townhomes": 991714,
+      "Detached Homes": 1076715
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 423,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 558,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1284,
+        "percent_change": -0.127
+      },
+      "3 Months": {
+        "change": -3625,
+        "percent_change": -0.357
+      },
+      "6 Months": {
+        "change": 13100,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -51800,
+        "percent_change": -4.88
+      },
+      "3 Years": {
+        "change": 149000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 257000,
+        "percent_change": 34.1
+      },
+      "10 Years": {
+        "change": 535000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["001"]
+  },
+  {
+    "community": "Westminster-Branson",
+    "href": "/westminster-branson/real-estate-price-history.htm",
+    "average_property_price": 1118621,
+    "sub_property_prices": {
+      "Condominiums": 858557,
+      "Condo Townhomes": 938645,
+      "Freehold Townhomes": 1124106,
+      "Detached Homes": 1288697
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 468,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 590,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1557,
+        "percent_change": -0.139
+      },
+      "3 Months": {
+        "change": -4445,
+        "percent_change": -0.396
+      },
+      "6 Months": {
+        "change": 13700,
+        "percent_change": 1.24
+      },
+      "1 Year": {
+        "change": -59300,
+        "percent_change": -5.03
+      },
+      "3 Years": {
+        "change": 159000,
+        "percent_change": 16.6
+      },
+      "5 Years": {
+        "change": 275000,
+        "percent_change": 32.6
+      },
+      "10 Years": {
+        "change": 577000,
+        "percent_change": 107.0
+      }
+    },
+    "area_code": ["035"]
+  },
+  {
+    "community": "Weston",
+    "href": "/weston/real-estate-price-history.htm",
+    "average_property_price": 980026,
+    "sub_property_prices": {
+      "Condominiums": 814197,
+      "Condo Townhomes": 896077,
+      "Freehold Townhomes": 831477,
+      "Detached Homes": 1144031
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 410,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 540,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1252,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -3536,
+        "percent_change": -0.36
+      },
+      "6 Months": {
+        "change": 12700,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -50300,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 144000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 248000,
+        "percent_change": 34.0
+      },
+      "10 Years": {
+        "change": 518000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["113"]
+  },
+  {
+    "community": "Weston-Pellam Park",
+    "href": "/weston-pellam-park/real-estate-price-history.htm",
+    "average_property_price": 1016859,
+    "sub_property_prices": {
+      "Condominiums": 901043,
+      "Condo Townhomes": 739562,
+      "Freehold Townhomes": 1080481,
+      "Detached Homes": 1098031
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 425,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 594,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1135,
+        "percent_change": -0.112
+      },
+      "3 Months": {
+        "change": -3147,
+        "percent_change": -0.309
+      },
+      "6 Months": {
+        "change": 14200,
+        "percent_change": 1.42
+      },
+      "1 Year": {
+        "change": -49900,
+        "percent_change": -4.68
+      },
+      "3 Years": {
+        "change": 156000,
+        "percent_change": 18.1
+      },
+      "5 Years": {
+        "change": 269000,
+        "percent_change": 35.9
+      },
+      "10 Years": {
+        "change": 556000,
+        "percent_change": 121.0
+      }
+    },
+    "area_code": ["091"]
+  },
+  {
+    "community": "Wexford-Maryvale",
+    "href": "/wexford-maryvale/real-estate-price-history.htm",
+    "average_property_price": 1068748,
+    "sub_property_prices": {
+      "Condominiums": 853091,
+      "Condo Townhomes": 667168,
+      "Freehold Townhomes": 1301094,
+      "Detached Homes": 1206438
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 447,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 588,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1367,
+        "percent_change": -0.128
+      },
+      "3 Months": {
+        "change": -3862,
+        "percent_change": -0.36
+      },
+      "6 Months": {
+        "change": 13800,
+        "percent_change": 1.31
+      },
+      "1 Year": {
+        "change": -54900,
+        "percent_change": -4.89
+      },
+      "3 Years": {
+        "change": 157000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 271000,
+        "percent_change": 33.9
+      },
+      "10 Years": {
+        "change": 565000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["119"]
+  },
+  {
+    "community": "Willowdale East",
+    "href": "/willowdale-east/real-estate-price-history.htm",
+    "average_property_price": 1431368,
+    "sub_property_prices": {
+      "Condominiums": 951949,
+      "Condo Townhomes": 1140876,
+      "Freehold Townhomes": 1647012,
+      "Detached Homes": 1670298
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 599,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 765,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1939,
+        "percent_change": -0.135
+      },
+      "3 Months": {
+        "change": -5518,
+        "percent_change": -0.384
+      },
+      "6 Months": {
+        "change": 17800,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -75100,
+        "percent_change": -4.99
+      },
+      "3 Years": {
+        "change": 206000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 355000,
+        "percent_change": 33.0
+      },
+      "10 Years": {
+        "change": 745000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["151"]
+  },
+  {
+    "community": "Willowdale East",
+    "href": "/willowdale-east/real-estate-price-history.htm",
+    "average_property_price": 1431368,
+    "sub_property_prices": {
+      "Condominiums": 951949,
+      "Condo Townhomes": 1140876,
+      "Freehold Townhomes": 1647012,
+      "Detached Homes": 1670298
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 599,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 765,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1939,
+        "percent_change": -0.135
+      },
+      "3 Months": {
+        "change": -5518,
+        "percent_change": -0.384
+      },
+      "6 Months": {
+        "change": 17800,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -75100,
+        "percent_change": -4.99
+      },
+      "3 Years": {
+        "change": 206000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 355000,
+        "percent_change": 33.0
+      },
+      "10 Years": {
+        "change": 745000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["152"]
+  },
+  {
+    "community": "Willowdale East",
+    "href": "/willowdale-east/real-estate-price-history.htm",
+    "average_property_price": 1431368,
+    "sub_property_prices": {
+      "Condominiums": 951949,
+      "Condo Townhomes": 1140876,
+      "Freehold Townhomes": 1647012,
+      "Detached Homes": 1670298
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 599,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 765,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1939,
+        "percent_change": -0.135
+      },
+      "3 Months": {
+        "change": -5518,
+        "percent_change": -0.384
+      },
+      "6 Months": {
+        "change": 17800,
+        "percent_change": 1.26
+      },
+      "1 Year": {
+        "change": -75100,
+        "percent_change": -4.99
+      },
+      "3 Years": {
+        "change": 206000,
+        "percent_change": 16.8
+      },
+      "5 Years": {
+        "change": 355000,
+        "percent_change": 33.0
+      },
+      "10 Years": {
+        "change": 745000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["153"]
+  },
+  {
+    "community": "Willowdale West",
+    "href": "/willowdale-west/real-estate-price-history.htm",
+    "average_property_price": 1215739,
+    "sub_property_prices": {
+      "Condominiums": 932697,
+      "Condo Townhomes": 895603,
+      "Freehold Townhomes": 1172183,
+      "Detached Homes": 1524078
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 508,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 646,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -1670,
+        "percent_change": -0.137
+      },
+      "3 Months": {
+        "change": -4758,
+        "percent_change": -0.39
+      },
+      "6 Months": {
+        "change": 15000,
+        "percent_change": 1.25
+      },
+      "1 Year": {
+        "change": -64099,
+        "percent_change": -5.01
+      },
+      "3 Years": {
+        "change": 174000,
+        "percent_change": 16.7
+      },
+      "5 Years": {
+        "change": 300000,
+        "percent_change": 32.8
+      },
+      "10 Years": {
+        "change": 630000,
+        "percent_change": 108.0
+      }
+    },
+    "area_code": ["037"]
+  },
+  {
+    "community": "Willowridge-Martingrove-Richview",
+    "href": "/willowridge-martingrove-richview/real-estate-price-history.htm",
+    "average_property_price": 1018668,
+    "sub_property_prices": {
+      "Condominiums": 525292,
+      "Condo Townhomes": 960374,
+      "Freehold Townhomes": 1056814,
+      "Detached Homes": 1291029
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 426,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 495,
+        "percent_change": 0.049
+      },
+      "30 Days": {
+        "change": -1623,
+        "percent_change": -0.159
+      },
+      "3 Months": {
+        "change": -4701,
+        "percent_change": -0.459
+      },
+      "6 Months": {
+        "change": 11100,
+        "percent_change": 1.1
+      },
+      "1 Year": {
+        "change": -56900,
+        "percent_change": -5.29
+      },
+      "3 Years": {
+        "change": 137000,
+        "percent_change": 15.5
+      },
+      "5 Years": {
+        "change": 237000,
+        "percent_change": 30.3
+      },
+      "10 Years": {
+        "change": 503000,
+        "percent_change": 97.6
+      }
+    },
+    "area_code": ["007"]
+  },
+  {
+    "community": "Woburn",
+    "href": "/woburn/real-estate-price-history.htm",
+    "average_property_price": 1013072,
+    "sub_property_prices": {
+      "Condominiums": 842526,
+      "Condo Townhomes": 888396,
+      "Freehold Townhomes": 991781,
+      "Detached Homes": 1091386
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 424,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 550,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1331,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -3771,
+        "percent_change": -0.371
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -52600,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 148000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 254000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 532000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["141"]
+  },
+  {
+    "community": "Woburn",
+    "href": "/woburn/real-estate-price-history.htm",
+    "average_property_price": 1013072,
+    "sub_property_prices": {
+      "Condominiums": 842526,
+      "Condo Townhomes": 888396,
+      "Freehold Townhomes": 991781,
+      "Detached Homes": 1091386
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 424,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 550,
+        "percent_change": 0.054
+      },
+      "30 Days": {
+        "change": -1331,
+        "percent_change": -0.131
+      },
+      "3 Months": {
+        "change": -3771,
+        "percent_change": -0.371
+      },
+      "6 Months": {
+        "change": 12900,
+        "percent_change": 1.29
+      },
+      "1 Year": {
+        "change": -52600,
+        "percent_change": -4.93
+      },
+      "3 Years": {
+        "change": 148000,
+        "percent_change": 17.0
+      },
+      "5 Years": {
+        "change": 254000,
+        "percent_change": 33.5
+      },
+      "10 Years": {
+        "change": 532000,
+        "percent_change": 110.0
+      }
+    },
+    "area_code": ["142"]
+  },
+  {
+    "community": "Woodbine Corridor",
+    "href": "/woodbine-corridor/real-estate-price-history.htm",
+    "average_property_price": 1052171,
+    "sub_property_prices": {
+      "Condominiums": 599580,
+      "Condo Townhomes": 904073,
+      "Freehold Townhomes": 1167867,
+      "Detached Homes": 1269673
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 440,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 588,
+        "percent_change": 0.056
+      },
+      "30 Days": {
+        "change": -1300,
+        "percent_change": -0.123
+      },
+      "3 Months": {
+        "change": -3656,
+        "percent_change": -0.346
+      },
+      "6 Months": {
+        "change": 13900,
+        "percent_change": 1.34
+      },
+      "1 Year": {
+        "change": -53400,
+        "percent_change": -4.83
+      },
+      "3 Years": {
+        "change": 157000,
+        "percent_change": 17.5
+      },
+      "5 Years": {
+        "change": 270000,
+        "percent_change": 34.5
+      },
+      "10 Years": {
+        "change": 561000,
+        "percent_change": 114.0
+      }
+    },
+    "area_code": ["064"]
+  },
+  {
+    "community": "Woodbine-Lumsden",
+    "href": "/woodbine-lumsden/real-estate-price-history.htm",
+    "average_property_price": 1008984,
+    "sub_property_prices": {
+      "Condominiums": 562517,
+      "Freehold Townhomes": 1059368,
+      "Detached Homes": 1210934
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 422,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 599,
+        "percent_change": 0.059
+      },
+      "30 Days": {
+        "change": -1080,
+        "percent_change": -0.107
+      },
+      "3 Months": {
+        "change": -2973,
+        "percent_change": -0.294
+      },
+      "6 Months": {
+        "change": 14400,
+        "percent_change": 1.45
+      },
+      "1 Year": {
+        "change": -48900,
+        "percent_change": -4.62
+      },
+      "3 Years": {
+        "change": 157000,
+        "percent_change": 18.4
+      },
+      "5 Years": {
+        "change": 270000,
+        "percent_change": 36.5
+      },
+      "10 Years": {
+        "change": 557000,
+        "percent_change": 123.0
+      }
+    },
+    "area_code": ["060"]
+  },
+  {
+    "community": "Wychwood",
+    "href": "/wychwood/real-estate-price-history.htm",
+    "average_property_price": 1366080,
+    "sub_property_prices": {
+      "Condominiums": 863719,
+      "Condo Townhomes": 1557991,
+      "Freehold Townhomes": 1226731,
+      "Detached Homes": 1479997
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 571,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 797,
+        "percent_change": 0.058
+      },
+      "30 Days": {
+        "change": -1530,
+        "percent_change": -0.112
+      },
+      "3 Months": {
+        "change": -4242,
+        "percent_change": -0.31
+      },
+      "6 Months": {
+        "change": 19100,
+        "percent_change": 1.42
+      },
+      "1 Year": {
+        "change": -67100,
+        "percent_change": -4.68
+      },
+      "3 Years": {
+        "change": 210000,
+        "percent_change": 18.1
+      },
+      "5 Years": {
+        "change": 361000,
+        "percent_change": 35.9
+      },
+      "10 Years": {
+        "change": 746000,
+        "percent_change": 120.0
+      }
+    },
+    "area_code": ["094"]
+  },
+  {
+    "community": "Yonge-Eglinton",
+    "href": "/yonge-eglinton/real-estate-price-history.htm",
+    "average_property_price": 1462174,
+    "sub_property_prices": {
+      "Condominiums": 944129,
+      "Condo Townhomes": 1422676,
+      "Freehold Townhomes": 1360071,
+      "Detached Homes": 1744397
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 612,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 773,
+        "percent_change": 0.053
+      },
+      "30 Days": {
+        "change": -2025,
+        "percent_change": -0.138
+      },
+      "3 Months": {
+        "change": -5778,
+        "percent_change": -0.394
+      },
+      "6 Months": {
+        "change": 17900,
+        "percent_change": 1.24
+      },
+      "1 Year": {
+        "change": -77300,
+        "percent_change": -5.02
+      },
+      "3 Years": {
+        "change": 209000,
+        "percent_change": 16.7
+      },
+      "5 Years": {
+        "change": 360000,
+        "percent_change": 32.7
+      },
+      "10 Years": {
+        "change": 756000,
+        "percent_change": 107.0
+      }
+    },
+    "area_code": ["100"]
+  },
+  {
+    "community": "Yonge-St. Clair",
+    "href": "/yonge-st-clair/real-estate-price-history.htm",
+    "average_property_price": 1986723,
+    "sub_property_prices": {
+      "Condominiums": 1146723,
+      "Condo Townhomes": 1658369,
+      "Freehold Townhomes": 2543590,
+      "Detached Homes": 2129108
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 831,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 1101,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -2503,
+        "percent_change": -0.126
+      },
+      "3 Months": {
+        "change": -7058,
+        "percent_change": -0.354
+      },
+      "6 Months": {
+        "change": 26000,
+        "percent_change": 1.32
+      },
+      "1 Year": {
+        "change": -102000,
+        "percent_change": -4.86
+      },
+      "3 Years": {
+        "change": 294000,
+        "percent_change": 17.3
+      },
+      "5 Years": {
+        "change": 506000,
+        "percent_change": 34.2
+      },
+      "10 Years": {
+        "change": 1050000,
+        "percent_change": 113.0
+      }
+    },
+    "area_code": ["097"]
+  },
+  {
+    "community": "York University Heights",
+    "href": "/york-university-heights/real-estate-price-history.htm",
+    "average_property_price": 1036101,
+    "sub_property_prices": {
+      "Condominiums": 838827,
+      "Condo Townhomes": 909366,
+      "Freehold Townhomes": 1039100,
+      "Detached Homes": 1116779
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 433,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 568,
+        "percent_change": 0.055
+      },
+      "30 Days": {
+        "change": -1335,
+        "percent_change": -0.129
+      },
+      "3 Months": {
+        "change": -3775,
+        "percent_change": -0.363
+      },
+      "6 Months": {
+        "change": 13300,
+        "percent_change": 1.3
+      },
+      "1 Year": {
+        "change": -53400,
+        "percent_change": -4.9
+      },
+      "3 Years": {
+        "change": 152000,
+        "percent_change": 17.2
+      },
+      "5 Years": {
+        "change": 262000,
+        "percent_change": 33.8
+      },
+      "10 Years": {
+        "change": 547000,
+        "percent_change": 112.0
+      }
+    },
+    "area_code": ["027"]
+  },
+  {
+    "community": "Yorkdale-Glen Park",
+    "href": "/yorkdale-glen-park/real-estate-price-history.htm",
+    "average_property_price": 1146749,
+    "sub_property_prices": {
+      "Condominiums": 814530,
+      "Condo Townhomes": 931695,
+      "Freehold Townhomes": 1254746,
+      "Detached Homes": 1287463
+    },
+    "historical_performance": {
+      "1 Day": {
+        "change": 480,
+        "percent_change": 0.042
+      },
+      "7 Days": {
+        "change": 649,
+        "percent_change": 0.057
+      },
+      "30 Days": {
+        "change": -1380,
+        "percent_change": -0.12
+      },
+      "3 Months": {
+        "change": -3867,
+        "percent_change": -0.336
+      },
+      "6 Months": {
+        "change": 15400,
+        "percent_change": 1.36
+      },
+      "1 Year": {
+        "change": -57700,
+        "percent_change": -4.79
+      },
+      "3 Years": {
+        "change": 172000,
+        "percent_change": 17.7
+      },
+      "5 Years": {
+        "change": 296000,
+        "percent_change": 34.9
+      },
+      "10 Years": {
+        "change": 616000,
+        "percent_change": 116.0
+      }
+    },
+    "area_code": ["031"]
+  }
+]
