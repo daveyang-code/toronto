@@ -27,7 +27,7 @@ def get_neighbourhoods_from_geojson():
 # Load data from Excel file
 def load_toronto_data():
     # Load the Excel file
-    df = pd.read_excel("toronto.xlsx")
+    df = pd.read_excel("toronto.xlsx", engine="openpyxl")
 
     # Rename columns to match our desired format
     column_mapping = {
