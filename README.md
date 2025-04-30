@@ -1,4 +1,4 @@
-# Toront Neighbourhood Explorer
+# Toronto Neighbourhood Explorer
 
 An interactive web application for exploring and comparing Toronto's neighbourhoods across various demographic, economic, and crime metrics.
 
